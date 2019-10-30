@@ -1,2 +1,2 @@
 
-2019-x-x: Initial release
+2019-10-31: Initial release (rev 2.0)
