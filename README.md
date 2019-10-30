@@ -3,7 +3,7 @@
 
 ![CitizenSensor Nitrate Measurement System](/photo.jpg?raw=true)
 
-Repository contains all design files for the CitizenSensor nitrate measuring system.
+This repository contains all design files for the CitizenSensor nitrate measuring system.
 
 ## Repository Layout
 
@@ -20,7 +20,7 @@ Repository contains all design files for the CitizenSensor nitrate measuring sys
 
 ## Documentation
 
-todo
+Documentation can be found in the [CitizenSensor Wiki](https://github.com/CitizenSensor/CitizenSensor/wiki)
 
 ## Known Issues
 
