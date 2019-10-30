@@ -13,7 +13,7 @@ Repository contains all design files for the CitizenSensor nitrate measuring sys
 | + Hardware/                   PCB design files for the HAT
 + 2_Software/                   Main software running on the Raspberry Pi
 + 3_Electrometer/               PCB design files for the electrometer amplifier
-+ 4_AdapterBoard/               PCB design files for a small board to connect further components
++ 4_ConnectorBoard/             PCB design files for a small board to connect further components
 + 5_Enclosure/                  3D printable enclosure
 + README.md                     this readme
 ```
