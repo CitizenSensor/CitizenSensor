@@ -1,7 +1,7 @@
 
 # CitizenSensor Nitrate Measurement System
 
-![CitizenSensor Nitrate Measurement System](/photo.jpg?raw=true)
+![CitizenSensor Nitrate Measurement System](https://github.com/CitizenSensor/CitizenSensor/wiki/images/cs.jpg?raw=true)
 
 This repository contains all design files for the CitizenSensor nitrate measuring system.
 
