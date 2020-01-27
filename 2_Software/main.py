@@ -8,6 +8,12 @@ Created on Thu Jul 19 15:05:15 2018
 License Information:
 hx711: Copyright 2019 https://github.com/tatobari
 KY040: Copyright (c) 2017 Martin O'Hanlon https://github.com/martinohanlon
+mysql.connector: Copyright © 2012, 2020, Oracle and/or its affiliates. All rights reserved.
+netifaces: Copyright (c) 2007-2018 Alastair Houghton https://github.com/al45tair
+serial: Copyright David Belais
+GPIO: Copyright (c) 2012-2014 Ben Croston
+numpy: Copyright © 2005-2020, NumPy Developers
+pandas: Copyright (c) 2008-2012, AQR Capital Management, LLC, Lambda Foundry, Inc. and PyData Development Team All rights reserved.
 """
 
 '''
