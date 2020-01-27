@@ -14,7 +14,7 @@ In the file `/etc/xdg/lxsession/LXDE-pi/autostart`, add:
 ```
 #@lxpanel --profile LXDE-pi
 #@pcmanfm --desktop --profile LXDE-pi
-@/usr/bin/python3 /home/pi/work/main_prog_IDLE_modified.py
+@/usr/bin/python3 /home/pi/work/main.py
 #@xscreensaver -no-splash
 #point-rpi   
 
