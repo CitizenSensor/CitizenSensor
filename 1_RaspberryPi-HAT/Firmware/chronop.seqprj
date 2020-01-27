@@ -1,0 +1,63 @@
+{
+    "sequences": [
+        {
+            "initial_register_state": "<Sequence (Previous End State)>", 
+            "body": [
+                {
+                    "comment": "/* AFE_FIFO_CFG: DATA_FIFO_SOURCE_SEL = 3, DATA_FIFO_DMA_REQ_EN = 1, DATA_FIFO_EN = 1, DATA_FIFO_THR_VAL = 0, CMD_FIFO_DMA_REQ_EN = 1, CMD_FIFO_EN = 1, CMD_FIFO_THR_VAL = 0 */", 
+                    "code": "0x84007818"
+                }, 
+                {
+                    "comment": "/* AFE_ADC_CFG: GAIN_OFFS_SEL = 0, REFEXCITESW_EN = 0, MUX_SEL = 30 */", 
+                    "code": "0xA000001E"
+                }, 
+                {
+                    "comment": "/* AFE_SUPPLY_LPF_CFG: BYPASS_SUPPLY_LPF = 0 */", 
+                    "code": "0xA2000000"
+                }, 
+                {
+                    "comment": "/* AFE_SW_CFG: SW_SOURCE_SEL = 0, IVS_STATE = 0, TMUX_STATE = 0, NMUX_STATE = 6, PMUX_STATE = 4, DMUX_STATE = 0 */", 
+                    "code": "0x86000640"
+                }, 
+                {
+                    "comment": "/* Wait: 68.0 ms */", 
+                    "code": "0x00109A00"
+                }, 
+                {
+                    "comment": "/* AFE_CFG: ALDOILIMIT_EN = 0, VREFBUFILIMIT_EN = 0, VBIASBUF_EN = 0, SUPPLY_LPF_EN = 0, DFT_EN = 0, WAVEGEN_EN = 0, TEMP_CONV_EN = 0, TEMP_SENSOR_EN = 0, TIA_EN = 0, INAMP_EN = 0, BUF_EN = 0, ADC_CONV_EN = 0, ADC_EN = 1, DAC_EN = 0, REF_EN = 1, ALDO_EN = 1 */", 
+                    "code": "0x800000B0"
+                }, 
+                {
+                    "comment": "/* Wait: 0.2 ms */", 
+                    "code": "0x00000C80"
+                }, 
+                {
+                    "comment": "/* AFE_CFG: ALDOILIMIT_EN = 0, VREFBUFILIMIT_EN = 0, VBIASBUF_EN = 0, SUPPLY_LPF_EN = 0, DFT_EN = 0, WAVEGEN_EN = 0, TEMP_CONV_EN = 0, TEMP_SENSOR_EN = 0, TIA_EN = 0, INAMP_EN = 0, BUF_EN = 0, ADC_CONV_EN = 1, ADC_EN = 1, DAC_EN = 0, REF_EN = 1, ALDO_EN = 1 */", 
+                    "code": "0x800001B0"
+                }, 
+                {
+                    "comment": "/* Wait: 37.0 ms */", 
+                    "code": "0x00090880"
+                }, 
+                {
+                    "comment": "/* AFE_SW_CFG: SW_SOURCE_SEL = 0, IVS_STATE = 1, TMUX_STATE = 0, NMUX_STATE = 6, PMUX_STATE = 4, DMUX_STATE = 0 */", 
+                    "code": "0x86010640"
+                }, 
+                {
+                    "comment": "/* AFE_SW_CFG: SW_SOURCE_SEL = 0, IVS_STATE = 0, TMUX_STATE = 0, NMUX_STATE = 6, PMUX_STATE = 4, DMUX_STATE = 0 */", 
+                    "code": "0x86000640"
+                }, 
+                {
+                    "comment": "/* AFE_CFG: ALDOILIMIT_EN = 0, VREFBUFILIMIT_EN = 0, VBIASBUF_EN = 0, SUPPLY_LPF_EN = 0, DFT_EN = 0, WAVEGEN_EN = 0, TEMP_CONV_EN = 0, TEMP_SENSOR_EN = 0, TIA_EN = 0, INAMP_EN = 0, BUF_EN = 0, ADC_CONV_EN = 0, ADC_EN = 1, DAC_EN = 0, REF_EN = 1, ALDO_EN = 1 */", 
+                    "code": "0x800000B0"
+                }, 
+                {
+                    "comment": "/* AFE_CFG: ALDOILIMIT_EN = 0, VREFBUFILIMIT_EN = 0, VBIASBUF_EN = 1, SUPPLY_LPF_EN = 0, DFT_EN = 0, WAVEGEN_EN = 0, TEMP_CONV_EN = 0, TEMP_SENSOR_EN = 0, TIA_EN = 1, INAMP_EN = 1, BUF_EN = 1, ADC_CONV_EN = 0, ADC_EN = 1, DAC_EN = 1, REF_EN = 1, ALDO_EN = 1 */", 
+                    "code": "0x82000002"
+                }
+            ], 
+            "name": "seq_afe_ampmeas", 
+            "description": ""
+        }
+    ]
+}
