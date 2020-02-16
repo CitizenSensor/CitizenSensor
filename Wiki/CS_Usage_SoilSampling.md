@@ -1,4 +1,4 @@
-[Deutsche Version dieser Seite](https://github.com/FLMRobert/CitizenSensor/wiki/CS_Usage_SoilSampling-DE)
+[Deutsche Version dieser Seite](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/CS_Usage_SoilSampling-DE.md)
 
 # Soil Sampling #
 
