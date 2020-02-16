@@ -13,12 +13,12 @@ The connector board is a small PCB that sits on top of the CitizenSensor Raspber
 
 ## Bill of Material
 
-Item | Description | Amount | Comment
---- | --- | ---| ---
- | Raspberry Pi Commector | 1 | 40 pins
-J1 | Pin Header 90° 1x4 | 1 | 2.54 mm raster
-J2 | Pin Header 90° 1x5 | 1 | 2.54 mm raster
-J3 | Pin Header 90° 1x2 | 1 | 2.54 mm raster
-R1 | 1K resistor | 1 |
-D1 | 1N4004 diode| 1 |
-Q1 | BC547| 1 |
+| Item | Description | Amount | Comment  |
+| --- | --- | ---| ---  |
+| J0 | Raspberry Pi Connector | 1 | 40 pins |
+| J1 | Pin Header 90° 1x4 | 1 | 2.54 mm raster |
+| J2 | Pin Header 90° 1x5 | 1 | 2.54 mm raster |
+| J3 | Pin Header 90° 1x2 | 1 | 2.54 mm raster |
+| R1 | 1K resistor | 1 | |
+| D1 | 1N4004 diode| 1 | |
+| Q1 | BC547| 1 | |
