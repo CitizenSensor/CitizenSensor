@@ -20,14 +20,14 @@ Aus dieser Bodenprobe kann dann für die Nitrat-Messung eine Menge von 20 g Bode
 
 ### Dreiteiliger Bohrstock ###
 
-![Bohrstock](https://github.com/CitizenSensor/CitizenSensor/wiki/images/21000_Bohrstock.jpg?raw=true)
+![Bohrstock](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/21000_Bohrstock.jpg?raw=true)
 _Bild 1: Bohrstock_
 
 Der Bohrstock sollte für die Einschlagtiefen 0-30 cm, 30-60 cm und 60-90 cm ausgelegt sein. Andere Bezeichnung für den Bohrstock sind "Nmin Bohrer" (Nmin steht für "N mineralisch") oder "[Pürckhauer](https://de.wikipedia.org/wiki/P%C3%BCrckhauer)".
 
 ### Schlaghammer ###
 
-![Schlaghammer](https://github.com/CitizenSensor/CitizenSensor/wiki/images/21000_Schlaghammer.jpg?raw=true)
+![Schlaghammer](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/21000_Schlaghammer.jpg?raw=true)
 _Bild 2: Schlaghammer_
 
 Der Schlaghammer dient zum Einschlagen des Bohrstocks in den Boden.
@@ -42,7 +42,7 @@ Steht für die Probennahme kein Bohrstock zur Verfügung, so kann die Bodenprobe
 
 ### Beschriftbare Kunststoffbeutel für Bodenproben ###
 
-![Kunststoffbeutel](https://github.com/CitizenSensor/CitizenSensor/wiki/images/21000_Bodenprobe30-60.jpg?raw=true)
+![Kunststoffbeutel](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/21000_Bodenprobe30-60.jpg?raw=true)
 _Bild 3: Kunststoffbeutel_
 
 Für die Probennahme sollten beschriftbare Kunststoffbeutel bereitgehalten werden, um den Ursprung der Bodenproben zu dokumentieren.
@@ -68,22 +68,22 @@ An jedem Entnahmeort sollten folgende Schritte durchgeführt werden:
 2. **Bohrstock säubern:** der Bohrstock er sollte frei von Bodenresten aus vorherigen Bohrungen sein
 
 3. **Bohrstock einschlagen:** der Bohrstock wird senkrecht eingestochen, und dann mit dem Schlaghammer eingeschlagen. Bei der ersten Entnahme sollte der Bohrstock bis zur 30 cm Markierung eingeschlagen werden. Bei den weiteren Entnahmen beträgt die Einschlagtiefe 60 cm bzw. 90 cm
-![Bohrstock einstechen](https://github.com/CitizenSensor/CitizenSensor/wiki/images/21000_BohrstockEinstechen.jpg?raw=true)
+![Bohrstock einstechen](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/21000_BohrstockEinstechen.jpg?raw=true)
 _Bild 4: Bohrstock einstechen_
-![Bohrstock einschlagen](https://github.com/CitizenSensor/CitizenSensor/wiki/images/21000_BohrstockEinschlagen.jpg?raw=true)
+![Bohrstock einschlagen](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/21000_BohrstockEinschlagen.jpg?raw=true)
 _Bild 5: Bohrstock einschlagen_
 
 
 4. **Bohrstock herausdrehen:** der Bohrstock wird mit Zug nach oben herausgedreht.
-![Bohrstock herausdrehen](https://github.com/CitizenSensor/CitizenSensor/wiki/images/21000_BohrstockHerausdrehen.jpg?raw=true)
+![Bohrstock herausdrehen](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/21000_BohrstockHerausdrehen.jpg?raw=true)
 _Bild 6: Bohrstock herausdrehen_
 
 5. **Oberste Erdschicht entfernen:** die obersten 2-3 cm Bodenprobe sollten aus dem Bohrstock entfernt werden. Durch das Entfernen der obersten Schicht wird vermieden, dass die Probe durch Boden aus der angrenzenden Bodenschicht verfälscht wird.
-![Erdschicht entfernen](https://github.com/CitizenSensor/CitizenSensor/wiki/images/21000_SchichtEntfernen.jpg?raw=true)
+![Erdschicht entfernen](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/21000_SchichtEntfernen.jpg?raw=true)
 _Bild 7: Erdschicht entfernen_
 
 6. **Bohrkern auskratzen:** der Borhkern wird mit einem Messer / Schraubendreher aus dem Bohrstock in den Probenbeutel ausgekratzt.
-![Bohrkern auskratzen](https://github.com/CitizenSensor/CitizenSensor/wiki/images/21000_BohrkernEntnahme.jpg?raw=true)
+![Bohrkern auskratzen](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/21000_BohrkernEntnahme.jpg?raw=true)
 _Bild 8: Bohrkern auskratzen_
 
 ### Entnahme per Spaten ###
