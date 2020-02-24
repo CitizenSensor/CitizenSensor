@@ -1,4 +1,4 @@
-ID;Process step;;User Action Required;;Changing process parameter;;End-point detection;;;Precautions/Conditions;;Image
+﻿ID;Process step;;User Action Required;;Changing process parameter;;End-point detection;;;Precautions/Conditions;;Image
 <ID>;Process step;<group>;<y/n>;<Description>;<Name>;<Measurement method>;<y/n>;<Description>;<Estimated Time>;<Short Desc>;<Long Description>;
 100;Cleaning;Cleaning;y;In a beaker, carefully pour distilled water on the electrode;;;;;;;;
 101;Connect Board;Connection;y;Plug the board into the connector;GPIO;GPIO;y;GPIO;30;Not plugged in;No other sensor board should be plugged in; 
@@ -67,7 +67,7 @@ ID;Process step;;User Action Required;;Changing process parameter;;End-point det
 703;Nitratelektrode vorbereiten;;;;;;;;20;Nimm die Nitratelektrode aus der Lagerflüssigkeit und spüle sie ab.;Benutze destilliertes Wasser und spüle kräftig ca. 10 Sekunden.;abspülen.gif
 704;Nitratelektrode eintauchen;;;;;;;;5;Tauche nun die Elektrode in die Testflüssigkeit ein.;Gib auf die Membran Acht, die sich unten an der Elektrode befindet. Sie sollte keinen Kontakt zum Gefäßboden bekommen.;eintauchen.gif
 705;Messwertanzeige;;;;;;;;60;Nitratmesswert:;Laufende Messwertanzeige im Graph in mV.;eintauchen.gif
-7050;Interpretation Messwert;;;;;;;;10;Aus dem Messwert ergibt sich eine Stickstoffkonzentration von:;(1 g/m^2 entspricht Nitratkonz. von 10 ppm);
+7050;Interpretation Messwert;;;;;;;;10;Aus dem Messwert ergibt sich eine Stickstoffkonzentration von (1 g/m^2 entspricht Nitratkonz. von 10 ppm):;;qr.gif
 706;Nitratelektrode einlagern;;;;;;;;10;Lagere die Nitratelektrode wieder ein.;Benutze dafür die Lagerungslösung (Üblicherweise 100 ppm NO3-N).;einlagern.gif
 800;Messe:Kalibrierung;;;;;;;;;;;
 801;Benötigte Utensilien;;;;;;;;10;Überprüfe, ob alle benötigten Utensilien bereit stehen.;Du brauchst die Nitratelektrode, 1 Rührfisch, die beiden Kalibrierlösungen (100 und 4 ppm NO3-N), eine Spritzflasche mit destilliertem Wasser und ein Auffanggefäß.;kalibrieren_utensilien.gif
