@@ -1,0 +1,108 @@
+Partlist
+
+Exported from CS-HAT V2.brd at 01.10.2019 07:21
+
+EAGLE Version 9.4.2 Copyright (c) 1988-2019 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value               Package                Library            Position (inch)       Orientation
+
+C1       15p                 C0805                  rcl                (1.875 1.25)          R270
+C2       15p                 C0805                  rcl                (1.8 1.25)            R270
+C3       nb                  C0805                  rcl                (2.2875 1.2)          R270
+C4       nb                  C0805                  rcl                (2.125 1.3875)        R270
+C5       1n                  C0805                  rcl                (0.8625 0.34375)      R270
+C6       100n                C0805                  rcl                (0.5125 0.34375)      R270
+C7       10n                 C0805                  rcl                (0.725 0.125)         R270
+C8       470n                C0805                  rcl                (1.725 0.8125)        R180
+C9       4,7µ                C1206                  rcl                (1.69375 0.8875)      R180
+C10      470n                C0805                  rcl                (1.95 1.2)            R90
+C11      470n                C0805                  rcl                (1.725 1.0375)        R180
+C12      10µ                 C1206                  rcl                (1.7125 1.1125)       R180
+C13      4,7µ                C1206                  rcl                (2.0375 1.2125)       R90
+C14      470n                C0805                  rcl                (1.95625 0.65625)     R270
+C15      47n                 C0805                  rcl                (0.74375 1.55)        R0
+C16      47n                 C0805                  rcl                (0.74375 1.225)       R0
+C17      47n                 C0805                  rcl                (0.74375 1.625)       R180
+C18      47n                 C0805                  rcl                (0.74375 1.15)        R180
+C19      100n                C0805                  rcl                (0.96875 1.55)        R180
+C20      100n                C0805                  rcl                (0.93125 0.9875)      R180
+C21      100n                C0805                  rcl                (1.325 0.125)         R180
+C22      100n                C0805                  rcl                (0.75625 0.7)         R180
+C23      100n                C0805                  rcl                (3.075 2.125)         R180
+C24      100n                C0805                  rcl                (3.075 2.05)          R180
+C25      100n                C0805                  rcl                (1.45 0.5375)         R270
+C26      10µ                 C1206                  rcl                (1.36875 0.53125)     R270
+C27      100n                C0805                  rcl                (1.74375 0.575)       R270
+C28      10µ                 C1206                  rcl                (1.825 0.55625)       R270
+C29      1µ                  C1206                  rcl                (1.28125 0.53125)     R270
+C30      100n                C0805                  rcl                (1.79375 1.68125)     R0
+IC1      ADUCM350BBCZ        BC_120_3               analog-devices     (1.9875 0.9)          R270
+IC2      TS912B              SO08                   linear             (0.7 0.34375)         R0
+IC3      AD8226              SO8                    analog-devices     (0.96875 1.4)         R270
+IC4      AD648D              SO08                   linear             (0.75625 0.8375)      R270
+IC5      BME680              BME680                 bosch              (3.21875 2.075)       R0
+IC6      AD5293BRUZ-100      TSSOP14                analog-devices     (1.59375 0.5125)      R270
+IC7      MCP48X1SN           SO-08                  microchip          (1.325 0.275)         R90
+IC8      24LC32SN            SO-08                  microchip          (1.79375 1.81875)     R90
+JP1                          1X08S                  pinhead            (3.2375 1.4375)       R90
+JP2                          JP2S                   jumper             (0.3375 1.09375)      R270
+JP3                          JP2S                   jumper             (0.2375 1.09375)      R270
+JP4                          1X06S                  pinhead            (2.47244094 0.54330709) R0
+JP5                          1X06S                  pinhead            (2.47244094 1.44330709) R0
+JP6                          1X02/90                pinhead            (0.2625 0.49375)      R90
+JP7                          1X02/90                pinhead            (0.25625 1.8125)      R90
+PCB1     RASPBERRY_PI_B+_DIM RASPBERRY_PI_BPLUS_DIM RASPBERRY_PI_Bplus (0 0)                 R0
+Q1       16MHz               JXS53                  SMD_QUARZ          (2.175 1.2)           R90
+Q2       32kHz               FC-12M                 crystal            (1.8625 1.125)        R180
+R1       10k                 R0805                  rcl                (0.73125 0.56875)     R90
+R2       10k                 R0805                  rcl                (0.95 0.34375)        R90
+R3       1                   R1210                  rcl                (1.0625 0.34375)      R90
+R4       10k                 R0805                  rcl                (0.6375 0.125)        R90
+R5       10k                 R0805                  rcl                (0.975 0.125)         R270
+R6       10k                 R0805                  rcl                (1.0625 0.125)        R270
+R7       10k                 R0805                  rcl                (2.80600394 0.34379921) R270
+R8       1k                  R0805                  rcl                (1.725 0.9625)        R180
+R9       33k                 R0805                  rcl                (1.725 0.7375)        R180
+R10      100k                R0805                  rcl                (0.74375 1.375)       R180
+R11      10M                 R0805                  rcl                (0.74375 1.475)       R180
+R12      10M                 R0805                  rcl                (0.74375 1.3)         R180
+R13      4,99k               R0805                  rcl                (0.60625 1.55)        R0
+R14      4,99k               R0805                  rcl                (0.60625 1.225)       R0
+R15      4,99k               R0805                  rcl                (0.60625 1.15)        R0
+R16      4,99k               R0805                  rcl                (0.60625 1.625)       R0
+R17      10k                 R0805                  rcl                (0.53125 0.8125)      R270
+R18      500                 R0805                  rcl                (0.45625 0.8125)      R270
+R19      10k                 R0805                  rcl                (0.53125 0.95625)     R270
+R20      910                 R0805                  rcl                (0.76875 0.9875)      R0
+R21      47k                 R0805                  rcl                (0.98125 0.8625)      R90
+R22      1,5k                R0805                  rcl                (1.14375 0.8125)      R90
+R23      1,8k                R0805                  rcl                (1.06875 0.8125)      R270
+R24      47k                 R0805                  rcl                (2.18125 0.65625)     R270
+R25      4,7k                R0805                  rcl                (0.65625 1.80625)     R270
+R26      4,7k                R0805                  rcl                (0.73125 1.80625)     R270
+R27      1k                  R0805                  rcl                (1.58125 1.775)       R270
+S1       Serial Boot         SKHMPXE010             switch             (3.05787402 0.55314961) R0
+S2       RESET               SKHMPXE010             switch             (3.05787402 0.26564961) R0
+SJ1                          SJ                     jumper             (0.925 1.86875)       R180
+SJ2                          SJ                     jumper             (0.925 1.79375)       R0
+SJ3                          SJ                     jumper             (2.075 1.86875)       R270
+SJ4                          SJ                     jumper             (2.175 1.86875)       R270
+SJ5                          SJ                     jumper             (0.3375 1.3125)       R270
+SJ6                          SJ                     jumper             (0.2375 1.3125)       R270
+SJ7                          SJ                     jumper             (0.4375 1.3125)       R270
+T1       FDN337              SUPER-SOT3             transistor-power   (0.85 0.125)          R90
+T2       FDN337              SUPER-SOT3             transistor-power   (0.875 0.56875)       R270
+TP1      TESTPLUG2MM         TESTPLUG2MM            special            (1.14173228 2.89370079) R90
+TP2      TESTPLUG2MM         TESTPLUG2MM            special            (1.49606299 2.89370079) R90
+TP3      TESTPLUG2MM         TESTPLUG2MM            special            (1.8503937 2.89370079) R90
+TP4      TESTPLUG2MM         TESTPLUG2MM            special            (2.20472441 2.89370079) R90
+TP5      TESTPLUG2MM         TESTPLUG2MM            special            (0.43307087 2.89370079) R90
+TP6      TESTPLUG2MM         TESTPLUG2MM            special            (0.78740157 2.89370079) R90
+TP7      TESTPLUG2MM         TESTPLUG2MM            special            (0.07874016 2.89370079) R90
+TP8      TESTPLUG2MM         TESTPLUG2MM            special            (1.78125 0.2)         R90
+TP9      TPB2,54             B2,54                  testpad            (1.4625 1.88125)      R0
+TP10     TPB2,54             B2,54                  testpad            (1.4625 1.75)         R0
+X1       PCIE03602-F-D-EMS2  PCIE-036-02-F-D-EMS2   con-samtec         (0 1.15)              R0
+X2       PCI-E-36SLOT        PCI-E-36_SLOT          con-pc             (2.87401575 2.30314961) R90
