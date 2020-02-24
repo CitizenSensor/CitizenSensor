@@ -8,13 +8,22 @@ Runs on a raspbian system with Python 3
 # Setting up Raspberry Pi
 
 In order to get the programm running in autostart several preparations have to be executed.
+This guide should work with most raspbian installations. It is tested on wheezy.
+
+## Clone the repository
+
+After startup, clone the repository inside your home directory.
+```
+cd ~
+git clone https://github.com/CitizenSensor/CitizenSensor.git
+```
 
 ## Autostart of the python application
 In the file `/etc/xdg/lxsession/LXDE-pi/autostart`, add:
 ```
 #@lxpanel --profile LXDE-pi
 #@pcmanfm --desktop --profile LXDE-pi
-@/usr/bin/python3 /home/pi/work/main.py
+@/usr/bin/python3 /home/pi/CitizenSensor/2_Software/main.py
 #@xscreensaver -no-splash
 #point-rpi   
 
@@ -43,7 +52,7 @@ logo.nologo quiet splash plymouth.ignore-serial-consoles vt.global_cursor_defaul
 ```
 In the file `/etc/rc.local` insert:
 ```
-ifconfig wlan0|grep "inet "|awk  '{print $2}' > /home/pi/work/lastip
+ifconfig wlan0|grep "inet "|awk  '{print $2}' > /home/pi/CitizenSensor/2_Software/lastip
 ```
 before
 ```
@@ -121,13 +130,6 @@ python3 -m pip install https://github.com/martinohanlon/KY040/archive/master.zip
 python3 -m pip install https://github.com/tatobari/hx711py/archive/master.zip
 sudo apt-get install python3-numpy
 sudo apt install python3-pandas
-```
-
-## Clone this repository into your raspberry Pi
-```
-mkdir work
-cd work
-git clone https://github.com/CitizenSensor/CitizenSensor.git
 ```
 
 
