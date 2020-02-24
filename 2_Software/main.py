@@ -129,7 +129,7 @@ class step:
         self.Id=Id
         Id_global=self.Id
         #the Excel data sheet is read in the prog in the self.df variable
-        self.df = pd.read_csv(r'%s' %os.path.join(fileDir,'Database draft.csv'), sep=';')
+        self.df = pd.read_csv(r'%s' %os.path.join(fileDir,'steps.csv'), sep=';')
         self.c=self.df.columns
         #self.l is the array containig all Ids of the steps in data base
         self.l=self.df.ID.values
@@ -522,8 +522,8 @@ class step:
 
             out_str = "%.2f g/m^2" % (last_ADu_val / 10)
             tk.Label(self.window, text = "Düngeempfehlungen in der LWG Broschüre:",font=self.fontTextShort,bg="white",wraplength=(scale_factor*self.h)).grid(row=1,column=2,columnspan=2)
-			tk.Label(self.window, text=out_str,font=self.fontTextShort,wraplength=(self.w-scale_factor*self.h)).grid(row=3,column=0,columnspan=2,rowspan=2,sticky=W)
-            
+            tk.Label(self.window, text=out_str,font=self.fontTextShort,wraplength=(self.w-scale_factor*self.h)).grid(row=3,column=0,columnspan=2,rowspan=2,sticky=W)
+
         if (self.Id == 803) or (self.Id == 805): # Kalibrierpunkte
             startMOTOR()
             tk.Label(self.window, text=('Rührer:'),font=self.fontFooter).grid(row=5,column=0,sticky=SW)
@@ -897,12 +897,11 @@ if __name__ == "__main__":
         #MOTOR
         GPIO.setup(MOTORPIN, GPIO.OUT)
         MOTOR = GPIO.PWM(MOTORPIN, MOTORFREQ)
-		#RESET HAT
-		GPIO.setup(20, GPIO.OUT)
-		GPIO.output(20, GPIO.LOW)
-		time.sleep(0.2)
-		GPIO.output(20, GPIO.HIGH)
-		
+        #RESET HAT
+        GPIO.setup(20, GPIO.OUT)
+        GPIO.output(20, GPIO.LOW)
+        time.sleep(0.2)
+        GPIO.output(20, GPIO.HIGH)
 
     #Database-Stuff
     nitradoDB = mariadb.connect(user='nitrado', password='nitrado', database='nitrado')
