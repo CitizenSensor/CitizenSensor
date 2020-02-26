@@ -521,7 +521,7 @@ class step:
             nitradoDB.commit()
 
             out_str = "%.2f g/m^2" % (last_ADu_val / 10)
-            tk.Label(self.window, text = "Düngeempfehlungen in der LWG Broschüre:",font=self.fontTextShort,bg="white",wraplength=(scale_factor*self.h)).grid(row=1,column=2,columnspan=2)
+            tk.Label(self.window, text = "Düngeempfehlungen in der LWG Broschüre:",font=self.fontTextShort,bg="white",wraplength=(scale_factor*self.h)).grid(row=0,column=2,columnspan=2,sticky='N')
             tk.Label(self.window, text=out_str,font=self.fontTextShort,wraplength=(self.w-scale_factor*self.h)).grid(row=3,column=0,columnspan=2,rowspan=2,sticky=W)
 
         if (self.Id == 803) or (self.Id == 805): # Kalibrierpunkte
