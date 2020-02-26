@@ -50,14 +50,6 @@ and add at the end of the line:
 ```
 logo.nologo quiet splash plymouth.ignore-serial-consoles vt.global_cursor_default=0
 ```
-In the file `/etc/rc.local` insert:
-```
-ifconfig wlan0|grep "inet "|awk  '{print $2}' > /home/pi/CitizenSensor/2_Software/lastip
-```
-before
-```
-exit 0
-```
 
 ### Troubleshooting
 
