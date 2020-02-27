@@ -1028,7 +1028,7 @@ if __name__ == "__main__":
             main_exit = True
         if main_menu_entry == 8: # Neustart
 #            os.system("git pull origin develop")
-            os.system("python3 main_prog_IDLE_modified.py")
+            os.system("python3 main.py")
             main_exit = True
         if main_menu_entry == 10: # Script beenden
             main_exit = True
