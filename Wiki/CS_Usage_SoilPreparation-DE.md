@@ -1,4 +1,4 @@
-[English version of this page](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/CS_Usage_SoilPreparation)
+[English version of this page](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/CS_Usage_SoilPreparation.md)
 
 # Probenaufbereitung #
 
