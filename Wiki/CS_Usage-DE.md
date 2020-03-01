@@ -10,8 +10,8 @@ Die Genaugigkeit des Nitrat-Messwertes hängt stark davon ab, wie sorgfältig be
 
 Wir empfehlen daher die Hinweise in den nachfolgenden Anleitungen möglichst genau zu befolgen.
 
-- [Probennahme](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/CS_Usage_SoilSampling-DE)
-- [Probenaufbereitung](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/CS_Usage_SoilPreparation-DE)
-- [Vorbereitungen für die Nitratmessung](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/CS_Usage_Preparation-DE)
-- [Nitratmessung](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/CS_Usage_Measurement-DE)
-- [Interpretation der Messwerte](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/CS_Usage_Interpretation-DE)
+- [Probennahme](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/CS_Usage_SoilSampling-DE.md)
+- [Probenaufbereitung](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/CS_Usage_SoilPreparation-DE.md)
+- [Vorbereitungen für die Nitratmessung](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/CS_Usage_Preparation-DE.md)
+- [Nitratmessung](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/CS_Usage_Measurement-DE.md)
+- [Interpretation der Messwerte](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/CS_Usage_Interpretation-DE.md)

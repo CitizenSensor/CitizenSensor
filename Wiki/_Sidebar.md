@@ -2,8 +2,8 @@
 * [CitizenSensor Überblick](https://github.com/CitizenSensor/CitizenSensor/wiki/Home-DE) 
 
 Dokumentation
-* [CitizenSensor Bedienung](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/CS_Usage-DE)
-* [CitizenSensor Gerät](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/CS_Device-DE)
+* [CitizenSensor Bedienung](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/CS_Usage-DE.md)
+* [CitizenSensor Gerät](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/CS_Device-DE.md)
 * [CitizenSensor Werkzeuge](https://github.com/CitizenSensor/CitizenSensor/wiki/Home-DE)
 
 Hardware 
