@@ -24,3 +24,4 @@
 | Screw M3x20                      | 2      |                               | load cell                          |
 | Brass insert nuts M3             | 8      |                               |                                    |
 | Brass insert nuts M2.5           | 2      |                               |                                    |
+| Nitrate electrode                | 1      | Conatex Pasco 1184013         | https://www.pasco.com/products/sensors/environmental/ps-3521 |
