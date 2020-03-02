@@ -498,7 +498,11 @@ class step:
             self.conc100 = float(cursor.fetchall()[0][0])
             cursor.execute("SELECT realvalue2 FROM `CalVal-table` WHERE active = b'1'")
             self.conc4 = float(cursor.fetchall()[0][0])
-            self.func_m = np.log10(self.conc100/self.conc4)/(self.result100-self.result4)
+            # avoid dividing by zero
+            try:
+                self.func_m = np.log10(self.conc100/self.conc4)/(self.result100-self.result4)
+            except:
+                self.func_m = 1
             self.func_t = np.log10(self.conc100) - self.func_m*self.result100
 
 
