@@ -25,3 +25,15 @@
 | Brass insert nuts M3             | 8      |                               |                                    |
 | Brass insert nuts M2.5           | 2      |                               |                                    |
 | Nitrate electrode                | 1      | Conatex Pasco 1184013         | https://www.pasco.com/products/sensors/environmental/ps-3521 |
+| Magnet for stirrer               | 2      | Reichelt MAGNET 3.4           | Diameter 3mm, Length 4mm           |
+| Motor for stirrer                | 1      | Reichelt SOLAR 90002L         |                                    |
+
+
+# Accessories
+
+| Item                             | Amount | Article number                | Comment                            |
+|----------------------------------|--------|-------------------------------|------------------------------------|
+| Power supply, USB micro          | 1      | 5v, 2.5A                      |                                    |
+| Magnetic stir bar                | 1      | behr-labor.de 6231865         | oval, 15x6mm                       |
+| Plastic cup with screw cap       | 3      | https://www.ebay.de/itm/112857368035  | 100ml, Diameter 43mm       |
+| Screw with hole for electrode    | 1      | 3d printed                    |                                    |
