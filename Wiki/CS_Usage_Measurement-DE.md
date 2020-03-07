@@ -47,7 +47,7 @@ Die Schritte zur Vorbereitung der Nitrat-Messelektrode sind
 2. Spülen der Messelektrode mit destilliertem Wasser
 3. Lagerung der Messelektrode in 4ppm Kalibrierlösung für zwei Stunden
 
-![Messelektrode vorbereiten](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/BlankImage.jpg?raw=true)
+![Messelektrode vorbereiten](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/23000_01_ElektrodeSpuelen.jpg?raw=true)
 _Bild 1: Messelektrode vorbereiten_
 
 ### Kalibrierung ###
@@ -58,10 +58,10 @@ Das CitizenSensor Gerät muss vor der Nitratmessung mit drei unterschiedlich sta
 
 Durch den Kalibriervorgang wird sichergestellt dass das CitizenSensor Gerät möglichst präzise Messwerte liefert.
 
-Um die Kalibrierung zu starten, muss am CitizenSensor Gerät der Menüpunkt "Kalibrierung" ausgewählt werden. Das Gerät führt dann den Benutzer durch alle weiteren Kalibrierungsschritte.
+Um die Kalibrierung zu starten, muss am CitizenSensor Gerät der Menüpunkt "Kalibrieren" ausgewählt werden. Das Gerät führt dann den Benutzer durch alle weiteren Kalibrierungsschritte.
 
-![Menüpunkt Kalibrierung](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/BlankImage.jpg?raw=true)
-_Bild 2: Menüpunkt Kalibrierung_
+![Funktion Kalibrierung](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/23000_02_FunktionKalibrieren.jpg?raw=true)
+_Bild 2: Funktion Kalibrierung_
 
 Die Einzelschritte der Kalibrierung sind: 
 - Kalibrierlösung wählen
@@ -73,15 +73,15 @@ Die Einzelschritte der Kalibrierung sind:
 
 Die Nitratmessung wird mit der filtrierten, wässrigen Lösung der Bodenprobe durchgeführt. Für die Messung muss zur wässrigen Lösung eine sogenannte Ionenverstärker-Lösung (ISA) hinzugegeben werden.
 
-![Ionenverstärker-Lösung (ISA) zugeben](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/BlankImage.jpg?raw=true)
+![Ionenverstärker-Lösung (ISA) zugeben](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/23000_03_ISAZugeben.jpg?raw=true)
 _Bild 3: Ionenverstärker-Lösung (ISA) zugeben_
 
 [Details zur Herstellung der ISA Lösung](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/CS_Usage_Preparation-DE).
 
-Um die Nitratmessung zu starten, muss am CitizenSensor Gerät der Menüpunkt "Nitratmessung" ausgewählt werden. Das Gerät führt dann den Benutzer durch alle weiteren Schritte der Nitratmessung.
+Um die Nitratmessung zu starten, muss am CitizenSensor Gerät der Menüpunkt "Messen" ausgewählt werden. Das Gerät führt dann den Benutzer durch alle weiteren Schritte der Nitratmessung.
 
-![Menüpunkt Nitratmessung](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/BlankImage.jpg?raw=true)
-_Bild 4: Menüpunkt Nitratmessung_
+![Menüpunkt Nitratmessung](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/23000_04_FunktionMessen.jpg?raw=true)
+_Bild 4: Menüpunkt Messen_
 
 Die Einzelschritte der Nitratmessung sind: 
 - Kalibrierung der Waage
@@ -90,7 +90,7 @@ Die Einzelschritte der Nitratmessung sind:
 - Rühren der wässrigen Lösung starten
 - Nitratmessung
 
-![Nitratmessung](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/BlankImage.jpg?raw=true)
+![Nitratmessung](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/23000_05_Nitratmessung.jpg?raw=true)
 _Bild 5: Nitratmessung_
 
 Das Endergebnis der Messung wird vom CitizenSensor Gerät in der Einheit Nmin angegeben. 
@@ -99,8 +99,8 @@ Das Endergebnis der Messung wird vom CitizenSensor Gerät in der Einheit Nmin an
 
 Nach der Nitratmessung muss die Messelektrode mit destilliertem Wasser abgespült und trockengeschüttelt werden. Danach kann die Elektrode trocken eingelagert werden.
 
-![Messelektrode abspülen](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/BlankImage.jpg?raw=true)
-_Bild 6: Messelektrode abspülen_
+![Messelektrode einlagern](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/23000_06_ElektrodeLagern.jpg?raw=true)
+_Bild 6: Eingelagerte Messelektrode_
 
 Falls weitere Nitratmessungen in näherer Zukunft geplant sind, kann die Messelektrode auch eine beschränkte Zeit feucht in 4ppm Kalibrierlösung gelagert werden. Um Schäden an der Messelektrode zu vermeiden, sollte eine feuchte Lagerung von mehr als drei Tagen vermieden werden.
 

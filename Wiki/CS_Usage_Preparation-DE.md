@@ -78,12 +78,12 @@ Für die Herstellung der Kalibrierflüssigkeiten werden folgende Werkzeuge und M
 - Destilliertes Wasser: Spritzflasche mit 500 ml
 
 
-### Herstellung der Kalibrierflüssigkeiten ###
+### Herstellung der Kalibrierlösungen ###
 
-Die Herstellung der Kalibrierflüssigkeiten wird am CitizenSensor Gerät durch Auswahl des Menüpunkts "Kalibrierflüssigkeiten herstellen" ausgewählt. Das Gerät führt dann den Benutzer durch die Schritte, die für die Herstellung der Flüssigkeiten erforderlich sind.
+Die Herstellung der Kalibrierlösungen wird am CitizenSensor Gerät durch Auswahl des Menüpunkts "Kalibrierlösung herstellen" ausgewählt. Das Gerät führt dann den Benutzer durch die Schritte, die für die Herstellung der Lösungen erforderlich sind.
 
-![Menüpunkt Kalibrierlösung erstellen](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/BlankImage.jpg?raw=true)
-_Bild 1: Kalibrierlösung erstellen_
+![Funktion Kalibrierlösung erstellen](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/24000_01_FunktionKalibrierloesung.jpg?raw=true)
+_Bild 1: Funktion Kalibrierlösung erstellen_
 
 Die Herstellung der Kalibrierlösungen erfolgt in zwei Schritten. Zunächst wird eine Stammlösung der Konzentration 5000 ppm hergestellt. Diese Stammlösung wird dann weiter verdünnt, so dass Lösungen mit 100 ppm, 4 ppm, 0.1 ppm und 0.01 ppm entstehen.
 
@@ -109,8 +109,8 @@ Auf diese Art entstehen der Reihe nach immer weiter verdünnte Kalibrierungslös
 - **0.1 ppm Kalibrierlösung** entsteht aus 4 ppm Kalibrierlösung (2.75 ml) mit 107.25 ml Wasser 
 - **0.01 ppm Kalibrierlösung** entsteht aus 0.1 ppm Kalibrierlösung (10 ml) mit 90 ml Wasser 
 
-![Kalibrierlösungen](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/BlankImage.jpg?raw=true)
-_Bild 2: Kalibrierlösungen_
+![Kalibrierlösungen](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/24000_02_Kalibrierloesungen.jpg?raw=true)
+_Bild 2: Fertige Kalibrierlösungen_
 
 ## Ionenverstärker-Lösung herstellen ##
 
@@ -128,8 +128,8 @@ Für die Herstellung der Ionenverstärker-Lösung werden folgende Werkzeuge und 
 
 Die Herstellung der Ionenverstärker-Lösung (ISA) wird am CitizenSensor Gerät durch Auswahl des Menüpunkts "ISA herstellen" ausgewählt. Das Gerät führt dann den Benutzer durch die Schritte, die für die Herstellung der ISA-Lösung erforderlich sind.
 
-![ISA Lösung herstellen](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/BlankImage.jpg?raw=true)
-_Bild 3: ISA Lösung herstellen_
+![Funktion ISA herstellen](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/24000_03_FunktionISAherstellen.jpg?raw=true)
+_Bild 3: Funktion ISA herstellen_
 
 Die Einzelschritte sind: 
 - Waage kalibrieren
@@ -138,8 +138,8 @@ Die Einzelschritte sind:
 - ISA-Lösung rühren
 - ISA-Lösung beschriften
 
-![ISA Lösung](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/BlankImage.jpg?raw=true)
-_Bild 4: ISA Lösung_
+![ISA Lösung](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/24000_04_ISALoesung.jpg?raw=true)
+_Bild 4: Fertige ISA Lösung_
 
 # Weiterführende Informationen #
 
