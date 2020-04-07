@@ -2376,38 +2376,41 @@
     <group>
         <name>Driver Sources</name>
         <file>
-            <name>$PROJ_DIR$\..\..\..\src\afe.c</name>
+            <name>$PROJ_DIR$\..\..\..\..\Eval-ADUCM350EBZ\src\afe.c</name>
         </file>
         <file>
-            <name>$PROJ_DIR$\..\..\..\src\afe_lib.c</name>
+            <name>$PROJ_DIR$\..\..\..\..\Eval-ADUCM350EBZ\src\afe_lib.c</name>
         </file>
         <file>
-            <name>$PROJ_DIR$\..\..\..\src\dma.c</name>
+            <name>$PROJ_DIR$\..\..\..\..\Eval-ADUCM350EBZ\src\dma.c</name>
         </file>
         <file>
-            <name>$PROJ_DIR$\..\..\..\src\gpio.c</name>
+            <name>$PROJ_DIR$\..\..\..\..\Eval-ADUCM350EBZ\src\gpio.c</name>
         </file>
         <file>
-            <name>$PROJ_DIR$\..\..\..\src\i2c.c</name>
+            <name>$PROJ_DIR$\..\..\..\..\Eval-ADUCM350EBZ\src\i2c.c</name>
         </file>
         <file>
-            <name>$PROJ_DIR$\..\..\..\src\uart.c</name>
+            <name>$PROJ_DIR$\..\..\..\..\Eval-ADUCM350EBZ\src\uart.c</name>
         </file>
         <file>
-            <name>$PROJ_DIR$\..\..\..\src\wdt.c</name>
+            <name>$PROJ_DIR$\..\..\..\..\Eval-ADUCM350EBZ\src\wdt.c</name>
         </file>
     </group>
     <group>
         <name>System Sources</name>
         <file>
-            <name>$PROJ_DIR$\..\..\..\src\startup.c</name>
+            <name>$PROJ_DIR$\..\..\..\..\Eval-ADUCM350EBZ\src\startup.c</name>
         </file>
         <file>
-            <name>$PROJ_DIR$\..\..\..\src\system.c</name>
+            <name>$PROJ_DIR$\..\..\..\..\Eval-ADUCM350EBZ\src\system.c</name>
         </file>
     </group>
     <group>
         <name>Test Sources</name>
+        <file>
+            <name>$PROJ_DIR$\..\AuxChanMeasurement.c</name>
+        </file>
         <file>
             <name>$PROJ_DIR$\..\bme680.c</name>
         </file>
@@ -2415,10 +2418,13 @@
             <name>$PROJ_DIR$\..\Chronopotentiometrie.c</name>
         </file>
         <file>
+            <name>$PROJ_DIR$\..\ImpedanceMeasurement_4WireBioIsolated.c</name>
+        </file>
+        <file>
             <name>$PROJ_DIR$\..\PinMux.c</name>
         </file>
         <file>
-            <name>$PROJ_DIR$\..\..\test_common.c</name>
+            <name>$PROJ_DIR$\..\..\..\..\Eval-ADUCM350EBZ\examples\test_common.c</name>
         </file>
     </group>
     <file>
