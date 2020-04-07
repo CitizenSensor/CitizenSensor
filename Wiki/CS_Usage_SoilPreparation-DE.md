@@ -28,20 +28,14 @@ _Bild 2: Fleischwolf_
 - **Probenteiler / Riffelteiler** oder **dünne Platte** (Kunststoff oder Holz)
 ![Probenteiler/Riffelteiler](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/BlankImage.jpg?raw=true)
 _Bild 3: Probenteiler/Riffelteiler_
-![Dünne Platte](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/BlankImage.jpg?raw=true)
+![Dünne Platte](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/22000_DuennePlatte.jpg?raw=true)
 _Bild 4: Dünne Platte_
 - **Kleine Plane** (1 x 1 Meter)
-![Plane](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/BlankImage.jpg?raw=true)
+![Plane](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/22000_KleinePlane.jpg?raw=true)
 _Bild 5: Plane_
-- **Kleiner Eimer** (5 Liter)
-![Eimer](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/BlankImage.jpg?raw=true)
-_Bild 6: Eimer_
-- **Gartenschaufel**
-![Gartenschaufel](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/BlankImage.jpg?raw=true)
-_Bild 7: Gartenschaufel_
-- **Plastikbecher** (200 ml)
-![Plastikbecher](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/BlankImage.jpg?raw=true)
-_Bild 8: Plastikbecher_
+- **Kleiner Eimer (5 Liter), Gartenschaufel, Plastikbecher**
+![Eimer](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/22000_EimerSchaufelBecher.jpg?raw=true)
+_Bild 6: Eimer, Gartenschaufel, Plastikbecher_
 
 ## Vorgehensweise zur Mahlen von Bodenproben ##
 
@@ -59,28 +53,28 @@ Steht keine Bodenmühle zur Verfügung, so sollte die Probe durch einen Fleischw
 In der Bodenprobe sollten nur Steine enthalten sein, die kleiner sind als die Abstände der Förderschnecke im Fleischwolf - andernfalls könnte der Fleischwolf beim Drehen blockieren.
 
 4. **Befestigungsring des Fleischwolfs abschrauben** und Lochscheibe entfernen.
-![Befestigungsring](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/BlankImage.jpg?raw=true)
-_Bild 9: Abgeschraubter Befestigungsring_
+![Befestigungsring](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/22000_FleischwolfRing.jpg?raw=true)
+_Bild 7: Abgeschraubter Befestigungsring, und entfernte Lochscheibe_
 
 5. **Bodenprobe portionsweise mit dem Fleischwolf durchdrehen:** 
 Bodenprobe in den Einfülltrichter des Fleischwolfs einfüllen und durch Kurbeln zerkleinern.
 Es empfiehlt sich mit wenig Kraft zu kurbeln. Blockaden können gelöst werden, indem im Wechsel vorwärts und rückwärts gekurbelt wird.
 ![Bodenprobe durchdrehen](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/22000_PortionBoden.jpg?raw=true)
-_Bild 10: Bodenprobe durchdrehen_
+_Bild 8: Bodenprobe durchdrehen_
 ![Gemahlene Bodenprobe](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/22000_GemahlenerBoden.jpg?raw=true)
-_Bild 11: Gemahlene Bodenprobe_
+_Bild 9: Gemahlene Bodenprobe_
+
 Falls die gemahlene Bodenprobe noch zu große Erdbrocken enthält, sollte sie nochmals durch den Fleischwolf gedreht werden. Falls durch das Mahlen mit dem Fleischwolf zusammengepresste "Erdwürstchen" entstehen, können diese sehr einfach mit den Fingern zerbröselt werden.
 
 ## Vorgehensweise zur Reduktion der Probenmenge mit dem Probenteiler ## 
 
 1. **Gemahlene Probe (2 kg) in die Öffnung des Probenteilers einfüllen:** Die beiden Auffangbehältern des Probenteilers enthalten nun jeweils die Halbe Probenmenge (1 kg).
-
 ![Probenteiler Einfüllen](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/BlankImage.jpg?raw=true)
-_Bild 12: Probe in Probenteiler einfüllen_
+_Bild 10: Probe in Probenteiler einfüllen_
 
 2. **Reduzierte Probenmenge nochmals in den Probenteiler einfüllen.** Die halbierte Menge kann nun aus einem der Auffangbehälter entnommen werden.
 ![Probenteiler Entnahme](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/BlankImage.jpg?raw=true)
-_Bild 13: Probe aus Probenteiler entnehmen_
+_Bild 11: Probe aus Probenteiler entnehmen_
 
 3. **Schritt 2 noch dreimal wiederholen:** es entstehen halbierte Probenmengen von 500 g, 250 g und 125 g.
 
@@ -90,40 +84,39 @@ _Bild 13: Probe aus Probenteiler entnehmen_
 
 1. **Gemahlene Probe (2 kg) zu einem kleinen Erdkegel aufschütten.**
 ![Erdkegel aufschütten](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/22000_BodenprobeKegel.JPG?raw=true)
-_Bild 14: Erdkegel aufschütten_
+_Bild 12: Erdkegel aufschütten_
 
 2. **Erdkegel mit dünner Platte vierteln.**
 ![Erdkegel halbieren](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/22000_Vierteln2.JPG?raw=true)
-_Bild 15: Erdkegel halbieren_
+_Bild 13: Erdkegel halbieren_
 ![Halbierter Erdkegel](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/22000_Vierteln3.JPG?raw=true)
-_Bild 16: Halbierter Erdkegel_
+_Bild 14: Halbierter Erdkegel_
 ![Erdkegel vierterln](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/22000_Vierteln4.JPG?raw=true)
-_Bild 17: Erdkegel vierteln_
+_Bild 15: Erdkegel vierteln_
 ![Geviertelter Erdkegel](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/22000_Vierteln5.JPG?raw=true)
-_Bild 18: Geviertelter Erdkegel_
+_Bild 16: Geviertelter Erdkegel_
 
 3. **Probenmenge halbieren:** die diagonal gegenüberliegenden Viertel des Erdkegels werden mit einer Gartenschaufel entfernt.
 ![Probenmenge halbieren](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/22000_HalbierteProbe.JPG?raw=true)
-_Bild 19: Probenmenge halbieren_
+_Bild 17: Probenmenge halbieren_
 
 4. **Restliche Probenmenge neu aufschütten:** Die verbleibende Erde wird in einen Eimer geschaufelt, danach wieder zu einem kleinen Erdkegel aufgeschüttet.
 ![Halbe Probe umfüllen](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/22000_ProbeMischen.JPG?raw=true)
-_Bild 20: Halbe Probe umfüllen_
+_Bild 18: Halbe Probe umfüllen_
 ![Halbe Probe aufschütten](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/22000_Bodenprobe1kg.JPG?raw=true)
-_Bild 21: Halbe Probe aufschütten_
+_Bild 19: Halbe Probe aufschütten_
 
 5. **Schritte 3 und 4 noch dreimal wiederholen:** so entstehen halbierte Probenmengen von 500 g, 250 g und schließlich 125 g.
 ![1000g Probe](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/22000_Bodenprobe1kg.JPG?raw=true)
-_Bild 22: 1000g Probe_
+_Bild 20: 1000g Probe_
 ![500g Probe](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/22000_Bodenprobe500g.JPG?raw=true)
-_Bild 23: 500g Probe_
+_Bild 21: 500g Probe_
 ![250g Probe](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/22000_Bodenprobe250g.JPG?raw=true)
-_Bild 24: 250g Probe_
+_Bild 22: 250g Probe_
 
 6. **Reduzierte Probenmenge (125 g) in Plastikbecher abfüllen.**
-
-![Becher mit Bodenprobe](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/BlankImage.jpg?raw=true)
-_Bild 25: Becher mit Bodenprobe_
+![Becher mit Bodenprobe](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/22000_BodenprobeBecher.jpg?raw=true)
+_Bild 23: Becher mit Bodenprobe_
 
 # Weiterführende Informationen #
 
