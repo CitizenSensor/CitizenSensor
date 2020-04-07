@@ -34,14 +34,14 @@ Der Schlaghammer dient zum Einschlagen des Bohrstocks in den Boden.
 
 ### Messer / Schraubendreher ###
 
-![Schraubendreher](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/BlankImage.jpg?raw=true)
+![Schraubendreher](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/21000_Messer_Schraubendreher.jpg?raw=true)
 _Bild 3: Schraubendreher_
 
 Ein Messer bzw. ein Schraubendreher dienen zum Auskratzen der Bodenprobe aus dem Bohrstock. Bei der Probennahme per Spaten wird mit Hilfe eines Messers ein Streifen aus der Bodenprobe herausgeschnitten. 
 
 ### Spaten ###
 
-![Spaten](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/BlankImage.jpg?raw=true)
+![Spaten](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/21000_Spaten.jpg?raw=true)
 _Bild 4: Spaten_
 
 Steht für die Probennahme kein Bohrstock zur Verfügung, so kann die Bodenprobe alternativ auch mit einem Spaten entnommen werden. Stehen Bohrstock und Spaten zu Verfügung, dann ist der Bohrstock das bevorzugte Werkzeug.    
@@ -57,12 +57,12 @@ Für die Probennahme mit dem Bohrstock sollten pro Einstichstelle drei Beutel be
 
 Idealerweise sollten auch der Ort (z.B. die Nummer der Einstichstelle) und das Datum der Probennahme auf dem Beutel notiert werden.
 
-### Kühltasche ### 
+### Kühltasche / Kühlbox ### 
 
-![Kühltasche](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/BlankImage.jpg?raw=true)
-_Bild 6: Kühltasche_
+![Kühltasche](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/21000_Kuehlbox.jpg?raw=true)
+_Bild 6: Kühlbox_
 
-Eine Kühltasche mit einigen Kühlakkus dient zum Transport der Bodenprobe.
+Eine Kühltasche oder Kühlbox mit einigen Kühlakkus dient zum Transport der Bodenprobe.
 
 ## Vorgehensweise zur Entnahme von Bodenproben ##
 
@@ -101,20 +101,29 @@ Weitere Informationen zur Entnahme per Bohrstock: siehe [01].
 
 1. **Erdloch an der Entnahmestelle ausheben:** das Loch sollte mindestens so breit und so tief sein wie das Blatt des Spatens.
 
-![Erdloch ausheben](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/BlankImage.jpg?raw=true)
+![Erdloch ausheben](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/21000_Erdloch1.jpg?raw=true)
 _Bild 12: Erdloch ausheben_
+
+![Erdloch](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/21000_Erdloch2.jpg?raw=true)
+_Bild 13: Erdloch ausheben_
 
 2. **Erdscheibe abstechen:** am Rand des Erdlochs wird eine Erdscheibe abgestochen. Die abgestochene Erdprobe sollte zwischen 20 und 30 cm hoch und 5 cm dick sein.
 
-![Erdscheibe](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/BlankImage.jpg?raw=true)
-_Bild 13: Erdscheibe abstechen_
+![Erdscheibe abstechen](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/21000_ErdscheibeStechen1.jpg?raw=true)
+_Bild 14: Erdscheibe abstechen_
+
+![Erdscheibe ausheben](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/21000_ErdscheibeStechen2.jpg?raw=true)
+_Bild 15: Erdscheibe ausheben_
 
 3. **Erdstreifen herausschneiden:** ein Streifen Erde wird mittig aus der Erdscheibe herausgeschnitten. Der Erdstreifen sollte ca 3 cm breit sein - es ergibt sich ein Streifen Erde von 3 cm x 5 cm x 30 cm.
 
-![Erdstreifen herausschneiden](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/BlankImage.jpg?raw=true)
-_Bild 14: Erdstreifen herausschneiden_
+![Erdstreifen herausschneiden](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/21000_ErdstreifenSchneiden.jpg?raw=true)
+_Bild 16: Erdstreifen herausschneiden_
 
 4. **Erdstreifen in den Probenbeutel verpacken.**
+
+![Erdstreifen verpacken](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/21000_ErdstreifenVerpacken.jpg?raw=true)
+_Bild 17: Erdstreifen verpacken_
 
 Weitere Informationen zur Entnahme per Spaten: siehe [03]. 
 
