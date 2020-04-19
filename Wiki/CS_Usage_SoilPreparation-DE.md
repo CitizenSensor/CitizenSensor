@@ -21,7 +21,7 @@ Steht kein Probenteiler zur Verfügung, so empfiehlt sich die Reduzierung des Pr
 
 - **Kunststoffbeutel mit Bodenproben** (Ergebnisse aus Schritt "Probennahme")
 - **Bodenmühle**, **Fleischwolf** oder feinmaschiges **Sieb** (5 mm)
-![Bodenmühle](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/BlankImage.jpg?raw=true)
+![Bodenmühle](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/22000_Bodenmuehle.jpg?raw=true)
 _Bild 1: Bodenmühle_
 ![Fleischwolf](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/22000_Fleischwolf.JPG?raw=true)
 _Bild 2: Fleischwolf_
