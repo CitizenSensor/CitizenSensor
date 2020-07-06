@@ -66,7 +66,7 @@
                 </option>
                 <option>
                     <name>OGLastSavedByProductVersion</name>
-                    <state>8.30.1.17146</state>
+                    <state>8.40.1.21529</state>
                 </option>
                 <option>
                     <name>GeneralEnableMisra</name>
@@ -116,7 +116,7 @@
                 </option>
                 <option>
                     <name>GBECoreSlave</name>
-                    <version>26</version>
+                    <version>27</version>
                     <state>38</state>
                 </option>
                 <option>
@@ -133,7 +133,7 @@
                 </option>
                 <option>
                     <name>CoreVariant</name>
-                    <version>26</version>
+                    <version>27</version>
                     <state>38</state>
                 </option>
                 <option>
@@ -156,7 +156,7 @@
                 </option>
                 <option>
                     <name>GFPUCoreSlave2</name>
-                    <version>26</version>
+                    <version>27</version>
                     <state>38</state>
                 </option>
                 <option>
@@ -215,7 +215,7 @@
             <name>ICCARM</name>
             <archiveVersion>2</archiveVersion>
             <data>
-                <version>34</version>
+                <version>35</version>
                 <wantNonLocal>1</wantNonLocal>
                 <debug>1</debug>
                 <option>
@@ -351,11 +351,10 @@
                 </option>
                 <option>
                     <name>CCIncludePath2</name>
-                    <state>$PROJ_DIR$\..\..\..\inc\</state>
-                    <state>$PROJ_DIR$\..\..\..\inc\config</state>
-                    <state>$PROJ_DIR$\..\..\..\examples\</state>
-                    <state>$PROJ_DIR$\..\..</state>
+                    <state>$PROJ_DIR$\..\..\..\..\Eval-ADUCM350EBZ\examples</state>
                     <state>$PROJ_DIR$\..</state>
+                    <state>$PROJ_DIR$\..\..\..\..\Eval-ADUCM350EBZ\inc\config</state>
+                    <state>$PROJ_DIR$\..\..\..\..\Eval-ADUCM350EBZ\inc</state>
                 </option>
                 <option>
                     <name>CCStdIncCheck</name>
@@ -468,6 +467,10 @@
                 <option>
                     <name>IccRTTI2</name>
                     <state>0</state>
+                </option>
+                <option>
+                    <name>OICompilerExtraOption</name>
+                    <state>1</state>
                 </option>
             </data>
         </settings>
@@ -682,14 +685,14 @@
             <archiveVersion>1</archiveVersion>
             <data>
                 <prebuild></prebuild>
-                <postbuild>"$PROJ_DIR$\..\..\..\tools\IElfTool\Debug_Win32_9\ielftool.exe" --fill 0xFF;0x0-0x5ffff --parity __parity0:0x1F00,even:0x00000000:L;0x0-0x3dfff --parity __parity1:0x0F80,even:0x00040000:L;0x40000-0x5efff --checksum __checksum0+0:4,crc32:LiR,0xffffffff;0x0-0x3fff7 --checksum __checksum0+4:4,crc32:Li,0xffffffff;0x0-0x3fff7 --checksum __checksum1+0:4,crc32:LiR,0xffffffff;0x40000-0x5fff7 --checksum __checksum1+4:4,crc32:Li,0xffffffff;0x40000-0x5fff7 "$TARGET_PATH$" "$TARGET_PATH$"</postbuild>
+                <postbuild>C:\Analog Devices\ADuCM350BBCZ\Eval-ADUCM350EBZ\tools\IElfTool\Debug_Win32_9\ielftool.exe</postbuild>
             </data>
         </settings>
         <settings>
             <name>ILINK</name>
             <archiveVersion>0</archiveVersion>
             <data>
-                <version>21</version>
+                <version>23</version>
                 <wantNonLocal>1</wantNonLocal>
                 <debug>1</debug>
                 <option>
@@ -1012,6 +1015,26 @@
                     <name>IlinkTrustzoneImportLibraryOut</name>
                     <state>Chronopotentiometrie_import_lib.o</state>
                 </option>
+                <option>
+                    <name>OILinkExtraOption</name>
+                    <state>1</state>
+                </option>
+                <option>
+                    <name>IlinkRawBinaryFile2</name>
+                    <state></state>
+                </option>
+                <option>
+                    <name>IlinkRawBinarySymbol2</name>
+                    <state></state>
+                </option>
+                <option>
+                    <name>IlinkRawBinarySegment2</name>
+                    <state></state>
+                </option>
+                <option>
+                    <name>IlinkRawBinaryAlign2</name>
+                    <state></state>
+                </option>
             </data>
         </settings>
         <settings>
@@ -1156,7 +1179,7 @@
                 </option>
                 <option>
                     <name>GBECoreSlave</name>
-                    <version>26</version>
+                    <version>27</version>
                     <state>38</state>
                 </option>
                 <option>
@@ -1173,7 +1196,7 @@
                 </option>
                 <option>
                     <name>CoreVariant</name>
-                    <version>26</version>
+                    <version>27</version>
                     <state>38</state>
                 </option>
                 <option>
@@ -1196,7 +1219,7 @@
                 </option>
                 <option>
                     <name>GFPUCoreSlave2</name>
-                    <version>26</version>
+                    <version>27</version>
                     <state>38</state>
                 </option>
                 <option>
@@ -1255,7 +1278,7 @@
             <name>ICCARM</name>
             <archiveVersion>2</archiveVersion>
             <data>
-                <version>34</version>
+                <version>35</version>
                 <wantNonLocal>1</wantNonLocal>
                 <debug>0</debug>
                 <option>
@@ -1506,6 +1529,10 @@
                     <name>IccRTTI2</name>
                     <state>0</state>
                 </option>
+                <option>
+                    <name>OICompilerExtraOption</name>
+                    <state>1</state>
+                </option>
             </data>
         </settings>
         <settings>
@@ -1726,7 +1753,7 @@
             <name>ILINK</name>
             <archiveVersion>0</archiveVersion>
             <data>
-                <version>21</version>
+                <version>23</version>
                 <wantNonLocal>1</wantNonLocal>
                 <debug>0</debug>
                 <option>
@@ -2049,6 +2076,26 @@
                     <name>IlinkTrustzoneImportLibraryOut</name>
                     <state>###Unitialized###</state>
                 </option>
+                <option>
+                    <name>OILinkExtraOption</name>
+                    <state>1</state>
+                </option>
+                <option>
+                    <name>IlinkRawBinaryFile2</name>
+                    <state></state>
+                </option>
+                <option>
+                    <name>IlinkRawBinarySymbol2</name>
+                    <state></state>
+                </option>
+                <option>
+                    <name>IlinkRawBinarySegment2</name>
+                    <state></state>
+                </option>
+                <option>
+                    <name>IlinkRawBinaryAlign2</name>
+                    <state></state>
+                </option>
             </data>
         </settings>
         <settings>
@@ -2081,38 +2128,41 @@
     <group>
         <name>Driver Sources</name>
         <file>
-            <name>$PROJ_DIR$\..\..\..\src\afe.c</name>
+            <name>$PROJ_DIR$\..\..\..\..\Eval-ADUCM350EBZ\src\afe.c</name>
         </file>
         <file>
-            <name>$PROJ_DIR$\..\..\..\src\afe_lib.c</name>
+            <name>$PROJ_DIR$\..\..\..\..\Eval-ADUCM350EBZ\src\afe_lib.c</name>
         </file>
         <file>
-            <name>$PROJ_DIR$\..\..\..\src\dma.c</name>
+            <name>$PROJ_DIR$\..\..\..\..\Eval-ADUCM350EBZ\src\dma.c</name>
         </file>
         <file>
-            <name>$PROJ_DIR$\..\..\..\src\gpio.c</name>
+            <name>$PROJ_DIR$\..\..\..\..\Eval-ADUCM350EBZ\src\gpio.c</name>
         </file>
         <file>
-            <name>$PROJ_DIR$\..\..\..\src\i2c.c</name>
+            <name>$PROJ_DIR$\..\..\..\..\Eval-ADUCM350EBZ\src\i2c.c</name>
         </file>
         <file>
-            <name>$PROJ_DIR$\..\..\..\src\uart.c</name>
+            <name>$PROJ_DIR$\..\..\..\..\Eval-ADUCM350EBZ\src\uart.c</name>
         </file>
         <file>
-            <name>$PROJ_DIR$\..\..\..\src\wdt.c</name>
+            <name>$PROJ_DIR$\..\..\..\..\Eval-ADUCM350EBZ\src\wdt.c</name>
         </file>
     </group>
     <group>
         <name>System Sources</name>
         <file>
-            <name>$PROJ_DIR$\..\..\..\src\startup.c</name>
+            <name>$PROJ_DIR$\..\..\..\..\Eval-ADUCM350EBZ\src\startup.c</name>
         </file>
         <file>
-            <name>$PROJ_DIR$\..\..\..\src\system.c</name>
+            <name>$PROJ_DIR$\..\..\..\..\Eval-ADUCM350EBZ\src\system.c</name>
         </file>
     </group>
     <group>
         <name>Test Sources</name>
+        <file>
+            <name>$PROJ_DIR$\..\AuxChanMeasurement.c</name>
+        </file>
         <file>
             <name>$PROJ_DIR$\..\bme680.c</name>
         </file>
@@ -2120,10 +2170,13 @@
             <name>$PROJ_DIR$\..\Chronopotentiometrie.c</name>
         </file>
         <file>
+            <name>$PROJ_DIR$\..\ImpedanceMeasurement_4WireBioIsolated.c</name>
+        </file>
+        <file>
             <name>$PROJ_DIR$\..\PinMux.c</name>
         </file>
         <file>
-            <name>$PROJ_DIR$\..\..\test_common.c</name>
+            <name>$PROJ_DIR$\..\..\..\..\Eval-ADUCM350EBZ\examples\test_common.c</name>
         </file>
     </group>
     <file>

@@ -15,6 +15,7 @@ This repository contains all design files for the CitizenSensor nitrate measurin
 + 3_Electrometer/               PCB design files for the electrometer amplifier
 + 4_ConnectorBoard/             PCB design files for a small board to connect further components
 + 5_Enclosure/                  3D printable enclosure
++ 6_Accessories/                Additional helpful items
 + README.md                     this readme
 ```
 
@@ -36,7 +37,7 @@ For details see licensing info in the respective sub directories.
 
 ---
 
-Copyright FabLab München e.V. and Fraunhofer EMFT 2019
+Copyright FabLab München e.V. and Fraunhofer EMFT 2019-2020
 
 CitizenSensor is sponsored by the Federal Ministry of Education and Research
 

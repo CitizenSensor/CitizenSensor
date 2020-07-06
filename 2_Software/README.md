@@ -100,7 +100,29 @@ and enable the serial port.
 ## Setting up MySQL
 
 Follow the instructions here: https://tutorials-raspberrypi.de/webserver-installation-apache2/   
-Use the credentials in the mysql-credentials file.
+Use the credentials in the mysql-credentials file.   
+   
+Note: 
+* php5 is deprecated, use `sudo apt-get install php` in step 2 instead.
+* in step 4, use `sudo apt-get install php-mysql phpmyadmin` and put password in the credentials file
+* in step 4, the correct path is sudo nano /etc/php/7.3/apache2/php.ini
+* step 5 and following are not necessary
+
+### Trouble-Shooting mysql and phpmyadmin
+The correct credentials can be set using:
+```
+sudo mysql -u root -p
+update mysql.user set password=password('*cs#') where user='root';
+flush privileges;
+update mysql.user set plugin='' where user='root';
+flush privileges;
+```    
+instert at the end of the file `sudo nano /etc/apache2/apache2.conf`:
+```
+Include /etc/phpmyadmin/apache.conf
+```
+Log in to phpmyadmin via browser (http://<ip-adress>/phpmyadmin)    
+create a databank with name, user and passwort `nitrado`.
 
 ### Troubleshooting
 If the instructions do not work for your version of raspbian, have a look in the comments to this tutorial on the website.

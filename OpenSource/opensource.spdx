@@ -1,0 +1,127 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+SPDXID: SPDXRef-DOCUMENT
+DocumentName: CitizenSensor OpenSource Components
+DocumentNamespace: https://github.com/CitizenSensor/CitizenSensor/blob/master/OpenSource/opensource.spdx
+
+Creator: Person: flmrobert
+Creator: Organization: FabLab München e.V. and Fraunhofer EMFT 
+Created: 2020-03-21T16:49:00Z
+CreatorComment: <text>CitizenSensor OSS component BoM.</text>
+Relationship: SPDXRef-DOCUMENT describes SPDXRef1
+Relationship: SPDXRef-DOCUMENT describes SPDXRef2
+Relationship: SPDXRef-DOCUMENT describes SPDXRef3
+
+PackageName: BME680_driver
+SPDXID: SPDXRef1
+PackageDownloadLocation: https://github.com/BoschSensortec/BME680_driver
+PackageFileName: https://github.com/BoschSensortec/BME680_driver/blob/master/bme680.c
+PackageHomePage: https://github.com/BoschSensortec/BME680_driver
+FilesAnalyzed: false
+PackageLicenseDeclared: BSD-3-Clause
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseInfoFromFiles: BSD-3-Clause
+PackageVersion: 3.5.9
+PackageCopyrightText: <text>Copyright (c) 2020 Bosch Sensortec GmbH. All rights reserved.</text>
+PackageComment: <text>none</text>
+
+PackageName: EVAL_ADICUP3029
+SPDXID: SPDXRef2
+PackageDownloadLocation: https://github.com/analogdevicesinc/EVAL-ADICUP3029
+PackageFileName: https://github.com/analogdevicesinc/EVAL-ADICUP3029/blob/master/projects/ADuCM3029_demo_cn0357/src/pinmux.c
+PackageHomePage: https://github.com/analogdevicesinc/EVAL-ADICUP3029
+FilesAnalyzed: false
+PackageLicenseDeclared: LicenseRef-LICENSE_ADI_BSD
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: <text>Copyright 2019(c) Analog Devices, Inc. All rights reserved.</text>
+PackageComment: <text>No official release with release version available.</text>
+
+PackageName: ADuCM350_SDK
+SPDXID: SPDXRef3
+PackageDownloadLocation: https://www.analog.com/en/design-center/landing-pages/001/aducm350-design-resources.html
+PackageFileName: ADuCM350-SDK.zip
+PackageHomePage: https://www.analog.com
+FilesAnalyzed: false
+PackageLicenseDeclared: LicenseRef-ADuCM350_SDK
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: <text>Copyright (c) 2013-2014 Analog Devices, Inc. All Rights Reserved.</text>
+PackageComment: <text>none</text>
+
+LicenseID: LicenseRef-LICENSE_ADI_BSD
+LicenseName: LICENSE_ADI_BSD
+LicenseComment: <text>BSD 3-clause license plus additions (patent infrigement and running on/with Analog Devices hardware)</text>
+ExtractedText:<text>Copyright 2019(c) Analog Devices, Inc.
+
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification,
+are permitted provided that the following conditions are met:
+    - Redistributions of source code must retain the above copyright
+      notice, this list of conditions and the following disclaimer.
+    - Redistributions in binary form must reproduce the above copyright
+      notice, this list of conditions and the following disclaimer in
+      the documentation and/or other materials provided with the
+      distribution.
+    - Neither the name of Analog Devices, Inc. nor the names of its
+      contributors may be used to endorse or promote products derived
+      from this software without specific prior written permission.
+    - The use of this software may or may not infringe the patent rights
+      of one or more patent holders.  This license does not release you
+      from the requirement that you obtain separate licenses from these
+      patent holders to use this software.
+    - Use of the software either in source or binary form, must be run
+      on or directly connected to an Analog Devices Inc. component.
+   
+THIS SOFTWARE IS PROVIDED BY ANALOG DEVICES "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES,
+INCLUDING, BUT NOT LIMITED TO, NON-INFRINGEMENT, MERCHANTABILITY AND FITNESS FOR A
+PARTICULAR PURPOSE ARE DISCLAIMED.
+
+IN NO EVENT SHALL ANALOG DEVICES BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, INTELLECTUAL PROPERTY
+RIGHTS, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR 
+BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,
+STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF 
+THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</text>
+
+LicenseID: LicenseRef-ADuCM350_SDK
+LicenseName: <text>Analog Devices, Inc. (“ADI”) Source Code Software License Agreement</text>
+LicenseComment: <text>none</text>
+ExtractedText:<text>Analog Devices, Inc. (“ADI”)
+Source Code Software License Agreement
+20150217-LWSC-CM350-CTSLA
+BEFORE YOU SELECT THE "I ACCEPT" BUTTON AT THE BOTTOM OF THIS WINDOW, CAREFULLY READ THE TERMS AND CONDITIONS SET FORTH BELOW.  BY SELECTING THE “I ACCEPT” BUTTON BELOW, OR DOWNLOADING, REPRODUCING, DISTRIBUTING OR OTHERWISE USING THE SOFTWARE, YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS SET FORTH BELOW.  IF YOU DO NOT AGREE TO ALL OF THE TERMS AND CONDITIONS, SELECT THE 'I DO NOT ACCEPT' BUTTON AND YOU MUST NOT DOWNLOAD, INSTALL OR OTHERWISE USE THE SOFTWARE.
+
+DOWNLOADING, REPRODUCING, DISTRIBUTING OR OTHERWISE USING THE SOFTWARE CONSTITUTES ACCEPTANCE OF THIS LICENSE.  THE SOFTWARE MAY NOT BE USED EXCEPT AS EXPRESSLY AUTHORIZED UNDER THIS LICENSE. 
+
+The software is protected by copyright law and international copyright treaties.  
+
+1. License:  Subject to the terms and conditions of this license, the software may be reproduced, modified and distributed in source code and object code form.
+
+2. Conditions: 
+(a) Any distribution of the software must include a complete copy of this license and retain all copyright and other proprietary notices.  The software that is distributed (including modified versions of the software) shall be subject to the terms and conditions of this license.  
+(b) The software may not be combined or merged with other software in any manner that would cause the software to become subject to terms and conditions which differ from those of this license.
+(c) The software is licensed solely and exclusively for use with processors manufactured by or for ADI.
+(d) Licensee shall not use the name or any trademark of ADI (including those of its licensors) or any contributor to endorse or promote products without prior written consent of the owner of the name or trademark.  The term “contributor” means any person or entity that modifies or distributes the software.  
+(e) Modified versions of the Software must be conspicuously marked as such.
+(f) Use of the software may or may not infringe patent rights of one or more patent holders.  This license does not alleviate the obligation to obtain separate licenses from patent holders to use the software.
+(g) All rights not expressly granted hereunder are reserved.  
+(h) This license shall be governed by the laws of Massachusetts, without regard to its conflict of laws rules.  The software shall only be used in compliance with all applicable laws and regulations, including without limitation export control laws.  
+
+3. WARRANTY DISCLAIMER: THE SOFTWARE AND ANY RELATED INFORMATION AND/OR ADVICE IS PROVIDED ON AN “AS IS” BASIS, WITHOUT REPRESENTATIONS, GUARANTEES OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ORAL OR WRITTEN, INCLUDING WITHOUT LIMITATION, WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT. There is no obligation to provide software support or updates.  The Software is not fault-tolerant and is not intended for use in high risk applications, including without limitation in the operation of nuclear facilities, aircraft navigation or control systems, air traffic control, life support machines, weapons systems or any other application in which the failure of the software could lead to death, personal injury, or severe physical or environmental damages.  The software is not authorized to be used under such circumstances.
+
+4. LIMITATION OF LIABILITY: TO THE MAXIMUM EXTENT PERMITTED BY LAW ADI (INCLUDING ITS LICENSORS) AND CONTRIBUTORS SHALL NOT BE LIABLE FOR ANY DAMAGES ARISING FROM OR RELATED TO THE SOFTWARE, ITS USE OR ANY RELATED INFORMATION AND/OR SERVICES, INCLUDING BUT NOT LIMITED TO ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE, EXEMPLARY, CONSEQUENTIAL OR ANALOGOUS DAMAGES (INCLUDING WITHOUT LIMITATION ANY DAMAGES RESULTING FROM LOSS OF USE, DATA, REVENUE, PROFITS, OR SAVINGS, COMPUTER DAMAGE OR ANY OTHER CAUSE), UNDER ANY LEGAL THEORY (INCLUDING WITHOUT LIMITATION CONTRACT, WARRANTY, TORT, NEGLIGENCE, STRICT OR PRODUCT LIABILITY), EVEN IF IT HAS BEEN INFORMED OF THE POSSIBILITY OF SUCH DAMAGES.  Some jurisdictions do not permit the exclusion or limitation of liability for consequential, incidental or other damages, and, as such, some portion of the above limitation may not apply.  In such jurisdictions, liability is limited to the greatest extent permitted by law.
+5.  Third Party Software:  The software may be accompanied by or include software made available by one or more third parties (“Third Party Software”).  Each portion of Third Party Software is subject to its own separate software license terms and conditions (“Third Party Licenses”).  The Third Party Licenses for Third Party Software delivered with the software are set forth or identified (by url or otherwise) in (i) Appendix A to this license (if any), (ii) the applicable software header or footer text, (iii) a text file located in the directory of the applicable Third Party Software component and/or (iv) such other location customarily used for licensing terms. The use of each portion of Third Party Software is subject to the Third Party Licenses, and you agree that your use of any Third Party Software is bound by the applicable Third Party License.  You agree to review and comply with all applicable Third Party Licenses prior to any use or distribution of any Third Party Software.  Third Party Software is provided on an “as is” basis without any representation, warranty or liability of any kind.  ADI (including its licensors) and contributors shall have no liability or responsibility for the operation or performance of the Third Party Software and shall not be liable for any damages, costs, or expenses, direct or indirect, arising out of the performance or failure to perform of the Third Party Software.  ADI (including its licensors) and contributors shall be entitled to the benefit of any and all limitations of liability and disclaimers of warranties contained in the Third Party Licenses. For the avoidance of doubt, this license does not alter, limit or expand the terms and conditions of, or rights granted to you pursuant to, Third Party Licenses.  
+
+
+Appendix A - Third Party Licenses/Notices:
+Micrium Software Notice 
+
+This software package includes software examples from Micrium Inc. ("Micrium"), some of which may have been modified by Analog Devices, Inc. Unless otherwise provided below, Micrium software is provided for evaluation, educational use or peaceful research. If you plan or intend to use Micrium software in a commercial application or product, you need to obtain a distribution license from Micrium. It is necessary to acquire this distribution license when the decision to use Micrium software in a design is made, not when the design is ready to go to production. If you are unsure about whether you need to obtain a license for your application or product, please contact Micrium.
+
+	
+/* ********************************************************************************************************* *                                             EXAMPLE CODE *                          (c) Copyright 2003-2012; Micrium, Inc.; Weston, FL *               All rights reserved.  Protected by international copyright laws. *               Knowledge of the source code may NOT be used to develop a similar product. *               Please help us continue to provide the Embedded community with the finest *               software available.  Your honesty is greatly appreciated. ********************************************************************************************************* */	
+/* ********************************************************************************************************* *                                                uC/LIB *                                        CUSTOM LIBRARY MODULES *                          (c) Copyright 2004-2011; Micrium, Inc.; Weston, FL *               All rights reserved.  Protected by international copyright laws. *               uC/LIB is provided in source form to registered licensees ONLY.  It is  *               illegal to distribute this source code to any third party unless you receive  *               written permission by an authorized Micrium representative.  Knowledge of  *               the source code may NOT be used to develop a similar product. *               Please help us continue to provide the Embedded community with the finest  *               software available.  Your honesty is greatly appreciated. *               You can contact us at www.micrium.com <http://www.micrium.com>.
+********************************************************************************************************* */	
+</text>
