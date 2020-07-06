@@ -886,7 +886,7 @@ def get_last_id(tablename):
     return cursor.fetchall()[0][0]
 
 if __name__ == "__main__":
-	if os.name == 'posix':
+    if os.name == 'posix':
         ky040 = KY040(CLOCKPIN, DATAPIN, SWITCHPIN, rotaryChange, switchPressed)
         ky040.start()
         GPIO.setup(CLOCKPIN, GPIO.IN, pull_up_down=GPIO.PUD_UP)
