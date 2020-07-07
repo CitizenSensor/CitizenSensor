@@ -44,7 +44,7 @@ console=tty1
 ```
 to
 ```
-console=tty1  
+console=tty3  
 ```
 and add at the end of the line:
 ```
