@@ -121,7 +121,7 @@ instert at the end of the file `sudo nano /etc/apache2/apache2.conf`:
 ```
 Include /etc/phpmyadmin/apache.conf
 ```
-Log in to phpmyadmin via browser (http://<ip-adress>/phpmyadmin)    
+Log in to phpmyadmin via browser (http://ip-adress/phpmyadmin)    
 create a databank with name, user and passwort `nitrado`.
 
 ### Troubleshooting
