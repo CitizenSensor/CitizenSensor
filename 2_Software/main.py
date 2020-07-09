@@ -657,7 +657,7 @@ class step:
         self.ADu_val = float(buffer.split("\r")[0])
         if self.Id == 705: # Messwertanzeige
             self.ADu_val = np.power(10, (self.func_m*self.ADu_val*1000+self.func_t))
-            self.ADu_var.set("%i ppm" %(self.ADu_val))
+            self.ADu_var.set("%.2f ppm" %(self.ADu_val))
             #print(self.arrADu)
             self.arrADu = np.append(self.arrADu, self.ADu_val)
             last_ADu_val = self.ADu_val
