@@ -38,3 +38,10 @@
 | Plastic cup with screw cap       | 5      | https://www.ebay.de/itm/112857368035  | 100ml, Diameter 43mm       |
 | Screw cap with hole for electrode | 1     | see folder 6\_Accessories     | 3d printed                         |
 | 100g calibration weight          | 1      | e.g. https://www.ebay.de/itm/140864008419  |                            |
+
+# Consumables
+| Item                             | Amount | Article number                | Comment                            |
+|----------------------------------|--------|-------------------------------|------------------------------------|
+| Ammoniumsulfate                  | 250g   | https://www.ebay.de/itm/263173160589||
+| Kaliumnitrat                     | 1 kg   | https://www.restauro-online.com/Kaliumnitrat-rein-KNO3-Kalisalpeter|| 
+
