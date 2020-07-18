@@ -35,7 +35,7 @@ In the bottom of the right, front opening, a magnetic stirrer is integrated, whi
 ![CitizenSensor Device Front](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/11000_03_GeraetVorderseite.jpg?raw=true)
 _Image 3: Front of CitizenSensor Device_
 
-For user interaction, the CitizenSensor device has a control button on the front for user input. The control knob can be turned to the right, to the left and it can be pressed.
+For user interaction, the CitizenSensor device has a control button on the front for user input. The control button can be turned to the right, to the left and it can be pressed.
 
 ![CitizenSensor Control Button](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/11000_04_Bedienknopf.jpg?raw=true)
 _Image 4: CitizenSensor Control Button_
