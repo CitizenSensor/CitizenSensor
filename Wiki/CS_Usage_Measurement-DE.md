@@ -80,8 +80,8 @@ _Bild 3: Ionenverstärker-Lösung (ISA) zugeben_
 
 Um die Nitratmessung zu starten, muss am CitizenSensor Gerät der Menüpunkt "Messen" ausgewählt werden. Das Gerät führt dann den Benutzer durch alle weiteren Schritte der Nitratmessung.
 
-![Menüpunkt Nitratmessung](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/23000_04_FunktionMessen.jpg?raw=true)
-_Bild 4: Menüpunkt Messen_
+![Funktion Nitratmessung](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/23000_04_FunktionMessen.jpg?raw=true)
+_Bild 4: Funktion Messen_
 
 Die Einzelschritte der Nitratmessung sind: 
 - Kalibrierung der Waage
@@ -93,7 +93,7 @@ Die Einzelschritte der Nitratmessung sind:
 ![Nitratmessung](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/23000_05_Nitratmessung.jpg?raw=true)
 _Bild 5: Nitratmessung_
 
-Das Endergebnis der Messung wird vom CitizenSensor Gerät in der Einheit Nmin angegeben. 
+Das Endergebnis der Messung wird vom CitizenSensor Gerät in der Einheit "Nmin" angegeben. 
 
 ### Einlagern der Messelektrode ###
 

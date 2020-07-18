@@ -17,7 +17,7 @@ verwendet werden.
 
 Steht kein Probenteiler zur Verfügung, so empfiehlt sich die Reduzierung des Probenumfangs mit der Methode "Kegeln und Vierteln" (siehe hierzu [04], S. 23/24). Diese Methode stellt sicher, dass eine gleichmäßige Mischung aus größeren und kleineren Bodenkrümeln entnommen wird.
 
-## Werkzeug und Materialien für die Entnahme von Bodenproben ##
+## Werkzeug und Materialien für die Aufbereitung von Bodenproben ##
 
 - **Kunststoffbeutel mit Bodenproben** (Ergebnisse aus Schritt "Probennahme")
 - **Bodenmühle**, **Fleischwolf** oder feinmaschiges **Sieb** (5 mm)
@@ -52,7 +52,7 @@ Steht keine Bodenmühle zur Verfügung, so sollte die Probe durch einen Fleischw
 3. **Größere Steine in der Bodenprobe aussortieren**
 In der Bodenprobe sollten nur Steine enthalten sein, die kleiner sind als die Abstände der Förderschnecke im Fleischwolf - andernfalls könnte der Fleischwolf beim Drehen blockieren.
 
-4. **Befestigungsring des Fleischwolfs abschrauben** und Lochscheibe entfernen.
+4. **Befestigungsring des Fleischwolfs abschrauben und Lochscheibe entfernen**.
 ![Befestigungsring](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/22000_FleischwolfRing.jpg?raw=true)
 _Bild 7: Abgeschraubter Befestigungsring, und entfernte Lochscheibe_
 
