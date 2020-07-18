@@ -96,8 +96,8 @@ _Bild 10a: Bestätigung der CitizenSensor Funktion "Messen"_
 
 Die Funktion "Messen" erfordert eine weitere Bestätigung durch den Bediener. Durch nochmaliges **Drücken** des Dreh/Druckknopfes wird die Funktion "Messen" **gestartet**.
 
-![CitizenSensor Funktion](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/11000_10b_FunktionsMessen.jpg?raw=true)
-_Bild 10b: CitizenSensor Funktion "Messen"_
+![CitizenSensor Funktion Start](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/11000_10b_FunktionsMessen.jpg?raw=true)
+_Bild 10b: CitizenSensor Funktion "Messen" starten_
 
 Nach dem Start einer Funktion, durchläuft das Gerät alle Schritte der gewählten Funktion. Im Fall der Funktion "Kalibrieren" sind das zum Beispiel die Schritte
 
