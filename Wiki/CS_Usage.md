@@ -12,8 +12,9 @@ The accuracy of the nitrate measurement result depends strongly on how carefully
 We therefore recommend following the steps in the following instructions as closely as possible.
 
 
-- [Soil Sampling](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/CS_Usage_SoilSampling.md)
-- [Soil Preparation](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/CS_Usage_SoilPreparation.md)
-- [Preparation of Nitrate Measurement](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/CS_Usage_Preparation.md)
-- [Nitrate Measurement](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/CS_Usage_Measurement.md)
-- [Interpretation of Measurements](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/CS_Usage_Interpretation.md)
+1. [Soil Sampling](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/CS_Usage_SoilSampling.md)
+2. [Soil Preparation](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/CS_Usage_SoilPreparation.md)
+3. [Creation of Aqueous Solution](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/CS_Usage_AqueousSolution.md)
+4. [Preparation of Nitrate Measurement](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/CS_Usage_Preparation.md)
+5 [Nitrate Measurement](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/CS_Usage_Measurement.md)
+6. [Interpretation of Measurements](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/CS_Usage_Interpretation.md)
