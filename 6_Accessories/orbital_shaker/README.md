@@ -1,7 +1,7 @@
 
 # CitizenSensor Orbital Shaker
 
-![CitizenSensor Orbital Shaker](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/CS_OrbitalShaker01.jpg?raw=true)
+![CitizenSensor Orbital Shaker](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/images/CS_OrbitalShaker.gif?raw=true)
 
 The CitizenSensor Orbital Shaker is an Open Source device for shaking fluids.
 This device was designed for for step ["Creation of Aqueous Solution"](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/CS_Usage_AqueousSolution.md), where an aqueous solution
@@ -64,3 +64,16 @@ The CitizenSensor Orbital Shaker was inspired by the following projects:
 * [Open Source Orbital Shaker by jmil (Thingiverse)](https://www.thingiverse.com/thing:5045)
 * [DIYbio Orbital Shaker V 1.0 by ProgressTH (Thingiverse)](https://www.thingiverse.com/thing:2633507)
 * [Crickit Lab Shaker by Ruiz Brothers (Adafruit)](https://learn.adafruit.com/crickit-lab-shaker/)
+
+## License
+
+Copyright FabLab Muenchen e.V. and Fraunhofer EMFT 2019.
+
+This documentation describes Open Hardware and is licensed under the CERN OHL v. 1.2.
+
+You may redistribute and modify this documentation under the terms of the CERN OHL v.1.2. 
+(http://ohwr.org/cernohl). This documentation is distributed WITHOUT ANY EXPRESS OR 
+IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A 
+PARTICULAR PURPOSE. 
+
+Please see the CERN OHL v.1.2 for applicable conditions.
