@@ -9,7 +9,6 @@ Für eine Nitratmessung im Boden müssen daher zunächst einige Schritte durchla
 Die Genaugigkeit des Nitrat-Messwertes hängt stark davon ab, wie sorgfältig bei der Entnahme und der Aufbereitung der Bodenprobe vorgegangen wird.
 
 Wir empfehlen daher die Hinweise in den nachfolgenden Anleitungen möglichst genau zu befolgen.
-aqueous solution
 
 1. [Probennahme](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/CS_Usage_SoilSampling-DE.md)
 2. [Probenaufbereitung](https://github.com/CitizenSensor/CitizenSensor/blob/master/Wiki/CS_Usage_SoilPreparation-DE.md)
