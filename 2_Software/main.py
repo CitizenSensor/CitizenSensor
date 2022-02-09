@@ -621,7 +621,7 @@ class step:
 
     def weighing_loop(self, target = None):
         global last_scale_val
-        self.scale_val =hx.get_weight(10)
+        self.scale_val =hx.get_weight(11) #current version of hx711 does not like even numbers
         self.scale_var.set("%.3f" %(self.scale_val/1000))
         if target is not None:
             #if self.scale_val < (target + 10) and self.scale_val > (target - 10):
