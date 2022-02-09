@@ -597,8 +597,8 @@ class step:
         if abs(self.scale_val - self.target_weight) <= self.target_weight/10: # 10% max difference for valid target
             #print('target reached')
             if self.Id == 5030:
-                tmp1_scale_val =hx.get_weight(100)
-                tmp2_scale_val =hx.get_weight(100)
+                tmp1_scale_val =hx.get_weight(101)
+                tmp2_scale_val =hx.get_weight(101)
                 if abs(tmp1_scale_val - tmp2_scale_val) <= 50: # max measurement-error
                     REFERENCE_UNIT = REFERENCE_UNIT * self.scale_val / self.target_weight
                     hx.set_reference_unit(REFERENCE_UNIT)
