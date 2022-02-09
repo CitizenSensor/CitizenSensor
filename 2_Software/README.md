@@ -26,7 +26,9 @@ In the file `/etc/xdg/lxsession/LXDE-pi/autostart`, add:
 @/usr/bin/python3 /home/pi/CitizenSensor/2_Software/main.py
 #@xscreensaver -no-splash
 #point-rpi   
-
+```
+It may be necessary to also paste the above commands into:
+```
 cd ~/.config
 mkdir lxsession
 cd lxsession
