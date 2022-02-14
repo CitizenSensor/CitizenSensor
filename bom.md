@@ -35,7 +35,7 @@
 |----------------------------------|--------|-------------------------------|------------------------------------|
 | Power supply, USB micro          | 1      | 5v, 2.5A                      |                                    |
 | Magnetic stir bar                | 1      | behr-labor.de 6231865         | oval, 15x6mm                       |
-| Plastic cup with screw cap       | 5      | https://www.ebay.de/itm/112857368035  | 100ml, Diameter 43mm       |
+| Plastic cup with screw cap       | 5      | https://www.ebay.de/itm/114186153530 or https://www.ebay.de/itm/263547305540  | 100ml, Diameter 43mm       |
 | Screw cap with hole for electrode | 1     | see folder 6\_Accessories     | 3d printed                         |
 | 100g calibration weight          | 1      | e.g. https://www.ebay.de/itm/140864008419  |                            |
 
