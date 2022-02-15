@@ -40,12 +40,13 @@
 5010;Benötigte Utensilien;;;;;;;;10;Überprüfe, ob folgende Utensilien bereit stehen.;500 ml Spritzflasche mit destilliertem Wasser, 2 M ISA-Lösung, mind. 3 g Kaliumnitrat, 1 Plastikbecher, 1 Rührfisch, 2 verschließbare Becher, 1 Rührstab, 1 Pipette,  1 Messer, 100g Gewicht;kalibrierlösung_utensilien.gif
 502;Gewünschte Konzentration einstellen;calibration;n;;;;y;KY010 press;10;Wähle die gewünschte Nitratkonzentration aus;Scrolle mithilfe des Knopfes durch die möglichen Werte und bestätige mit einem Knopfdruck.;
 5030;Waage kalibrieren;calibration;y;Waage kalibrieren;scale;calculated;y;scale;30;Kalibriere mit dem 100g Gewicht;Stelle das 100g Gewicht auf die Waage und warte, bis die Kalibrierung abgeschlossen ist. Danach wirst du aufgefordert, das Gewicht wieder zu entfernen.;gewicht_demo.gif
-503;Salz abwiegen;calibration;y;Salz abwiegen;scale;calculated;y;scale;40;Wiege das Salz ab;Benutze einen kleinen Löffel und fang mit wenig an. Eine Messerspitz sind ca. 100 -500 mg.;salz_abwiegen.gif
+503;Salz abwiegen;calibration;y;Salz abwiegen;scale;calculated;y;scale;40;Wiege das Kaliumnitrat-Salz ab;Benutze einen kleinen Löffel und fang mit wenig an. Eine Messerspitz sind ca. 100 -500 mg.;salz_abwiegen.gif
 504;Fülle Wasser ein;calibration;y;Wasser einfüllen;scale;calculated;y;scale;30;Fülle Wasser ein;Fülle möglichst exakt die angegebene Menge Wasser in den Becher ein.;gießen_demo.gif
 505;Becher beschriften;calibration;y;Becher beschriften;scale; -30g +30g;y;scale;50;Beschrifte den Becher;Der angegebene Wert entspricht der Konzentration, die du tatsächlich hergestellt hast. Stelle den Becher anschließend in die rechte Vertiefung (Magnetrührer).;beschriften.gif
 5060;Rührfisch einwerfen;;;;;;;;10;Gib den Rührfischer in den Becher;Stelle sicher, dass der Becher im rechten Slot (Magnetrührer) steht. Der Elektromotor wird mit ihm rühren;rührfisch.gif
-506;Rühren;calibration;y;Rühren;scale; -30g +30g;y;scale;1500;Lass den Magnetrührer arbeiten;Warte, bis der Countdown abgelaufen ist.;becher_demo.gif
+506;Rühren;calibration;y;Rühren;scale; -30g +30g;y;scale;600;Lass den Magnetrührer arbeiten. Du kannst die Drehgeschwindigkeit durch Drehen einstellen.;Warte, bis keine Salzkristalle mehr sichtbar sind oder der Countdown abgelaufen ist.;becher_demo.gif
 5061;Rührfisch rausholen;;;;;;;;10;Hole den magnetischen Rührfisch wieder raus.;Benutze ein Messer oder eine Pinzette aus Metall, das magnetisch ist (Eisen).;rührfisch_raus.gif
+5062;Verschließen und Schütteln;;;;;;;;10;Verschließe den Becher mit einem Deckel.;Schüttel den Becher anschließend kräftig durch.;beschriften.gif
 507;Neuen verschließbaren Becher auf die Waage stellen;;;;;;;;10;Nimm den vorigen Becher beiseite und stelle einen neuen sauberen Becher auf die Waage.;Achte darauf, dass der Becher mittig auf der Waage steht.;becher_waage.gif
 508;Stammlösung einfüllen;;;;;;;;10;Fülle die Stammlösung, wie angegeben ein.;Benutze dazu die Pipette. Ein Tropfen wiegt bis zu 0.05g.;pipettieren.gif
 509;Fülle Wasser ein;calibration;y;Wasser einfüllen;scale;calculated;y;scale;30;Fülle Wasser ein;Fülle möglichst exakt die angegebene Menge Wasser in den Becher ein.;gießen_demo.gif
@@ -103,3 +104,6 @@
 1003;Fülle Wasser ein;calibration;y;Wasser einfüllen;scale;calculated;y;scale;30;Fülle Wasser ein;Fülle möglichst exakt die angegebene Menge Wasser in den Becher ein.;gießen_demo.gif
 1004;Becher beschriften;calibration;y;Becher beschriften;scale; -30g +30g;y;scale;50;Beschrifte den Becher;Der angegebene Wert entspricht der Konzentration, die du tatsächlich hergestellt hast. Stelle den Becher anschließend wieder auf die Waage.;beschriften.gif
 1005;ISA hinzugeben;;;;;;;;10;Pipettiere ISA in den Becher;Pipettiere die angebebene Menge Ionenstärkeanpasser (ISA = Ammoniumsulfatlösung) hinzu.;pipettieren.gif
+1101;Bodenprobe nehmen;;;;;;;;45;Für die Entnahme von Bodenproben, beachte die Anleitung in unserem Wiki:;Nebenstehenden QR-Code mit dem Smartphone scannen.;probennahme.gif
+1102;Wässrige Lösung herstellen;;;;;;;;45;Für die Herstellung einer wässrigen Lösung deiner Bodenprobe, beachte die Anleitung in unserem Wiki:;Nebenstehenden QR-Code mit dem Smartphone scannen.;loesung.gif
+1103;Kalibrieren und Messen;;;;;;;;45;Hinweise zum Umgang mit der Nitratelektrode und zur Durchführung der Kalibrierung und Messung findest du in unserem Wiki:;Nebenstehenden QR-Code mit dem Smartphone scannen.;hinweise.gif

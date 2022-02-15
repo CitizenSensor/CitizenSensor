@@ -268,7 +268,7 @@ class step:
         ###################### HAUPTMENÜ ##########################
 
         if self.Id == 401:   # Hauptmenü
-            self.choices = ["Kalibrierlösung herstellen","Kalibrieren","Messen","Bodenfeuchte bestimmen","Bodenprobe verkleinern","ISA herstellen","Herunterfahren","Netzwerk-Info","Update & Neustart","Kalibrierlösung\nzurücksetzen","Beenden"] # Menüpunkte des Hauptmenüs
+            self.choices = ["Kalibrierlösung herstellen","Kalibrieren","Messen","Bodenfeuchte bestimmen","Bodenprobe verkleinern","ISA herstellen","Herunterfahren","Netzwerk-Info","Update & Neustart","Kalibrierlösung\nzurücksetzen","Beenden","Probennahme Hinweise"] # Menüpunkte des Hauptmenüs
 #            self.choices.append('Debugging') # option to  append 'Debugging' for adding arbitraty step sequence
             self.choice = self.choices[self.cpos]
             self.choice_var.set("%s %%" %str(self.choice))
@@ -997,7 +997,7 @@ if __name__ == "__main__":
             process1=process([401],'Hauptmenü')
         if main_menu_entry == 0: # Kalibrierlösung herstellen
             main_menu_entry = -1
-            process1=process([5001,5010,5030,501,503,504,505,5060,506,5061,507,508,509,510,1005,5060,506,5061,507,508,509,510,1005,5060,506,5061], 'Kalibrierlösungen herstellen') # der Einfachheit halber erstmal nur 2 ,507,508,509,510,507,508,509,510],'Kalibrierlösung herstellen')
+            process1=process([5001,5010,5030,501,503,504,505,5060,506,5061,507,508,509,510,1005,5062,507,508,509,510,1005,5062], 'Kalibrierlösungen herstellen') # der Einfachheit halber erstmal nur 2 ,507,508,509,510,507,508,509,510],'Kalibrierlösung herstellen')
         if main_menu_entry == 1: # Kalibrieren
             process1=process([801,602,8015,5060,7021,604,804,803,804,807,5061,8035,5060,7021,804,805,806,605,606,5061,603,808], 'Kalibrieren')
         if main_menu_entry == 5: # ISA herstellen
@@ -1018,8 +1018,9 @@ if __name__ == "__main__":
         if main_menu_entry == 9: # Standard-Kalibrierwerte wiederherstellen
             main_menu_entry = -1
             process1=process([598,599],'Kalibrierlösung zurücksetzen')
-        if main_menu_entry == 11: # Debugging, wird aktuell nicht verwendet
-            process1=process([705, 7050], 'Debugging')
+        if main_menu_entry == 11: # Probennahme und Vorbereitung
+            main_menu_entry = -1
+            process1=process([1101, 1102, 1103], 'Debugging')
         main_menu_entry=-1
         step_next_index=0 #muss zurückgesetzt werden
         bgwindow_global.lower()
@@ -1030,8 +1031,10 @@ if __name__ == "__main__":
             sys.exit()
             main_exit = True
         if main_menu_entry == 8: # Neustart
-#            os.system("git pull origin develop")
-            os.system("python3 main.py")
+            os.system("rm -rf ~/CitizenSensor/")
+            os.system("git clone https://github.com/CitizenSensor/CitizenSensor")
+            time.sleep(300)
+            os.system("python3 ~/CitizenSensor/2_Software/main.py")
             main_exit = True
         if main_menu_entry == 10: # Script beenden
             main_exit = True
